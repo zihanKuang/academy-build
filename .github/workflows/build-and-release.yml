@@ -1,0 +1,96 @@
+name: Build and push to remote
+
+on:
+  workflow_dispatch:
+    inputs:
+      orgId:
+        description: 'Organization ID or slug (e.g., aabid)'
+        required: false
+        type: string
+      version:
+        description: 'Module version (default: latest)'
+        required: false
+        default: 'latest'
+        type: string
+
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - '.github/**'
+      - README.md
+
+jobs:
+  build-artifacts:
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: 'master'
+
+      - name: Setup Hugo (Extended)
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.147.9'
+          extended: true
+
+      - name: Conditionally update Hugo module based on orgId
+        if: ${{ github.event.inputs.orgId != '' }}
+        run: |
+          ORG_ID="${{ github.event.inputs.orgId }}"
+          VERSION="${{ github.event.inputs.version || 'latest' }}"
+          MODULE=$(jq -r --arg orgId "$ORG_ID" '.orgToModuleMapping[$orgId]' academy_config.json)
+
+          if [ "$MODULE" = "null" ] || [ -z "$MODULE" ]; then
+            echo "❌ Module not found for orgId: $ORG_ID"
+            exit 1
+          fi
+
+          echo "✅ Found module for orgId '$ORG_ID': $MODULE"
+          make update-module module="$MODULE" version="$VERSION"
+
+      - name: Install dependencies
+        run: make academy-setup
+
+      - name: Build Academy
+        run: make academy-prod
+
+      - name: Pull changes from self master
+        run: git pull origin master
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Build Academy
+          commit_options: '--signoff'
+          branch: master
+          commit_user_name: l5io
+          commit_user_email: l5io@layer5.io
+          commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+
+
+      - name: Checkout meshery-cloud repo
+        uses: actions/checkout@v4
+        with:
+          repository: layer5io/meshery-cloud
+          token: ${{ secrets.GH_ACCESS_TOKEN }}
+          path: meshery-cloud
+
+      - name: Copy build output to /academy
+        run: |
+          mkdir -p meshery-cloud/academy
+          rsync -av --delete public/ meshery-cloud/academy/
+
+      - name: Commit & push academy to meshery-cloud
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update academy content from orgId: ${{ github.event.inputs.orgId || 'manual' }} [CI]"
+          commit_options: '--signoff'
+          repository: meshery-cloud
+          branch: master
+          file_pattern: academy
+          commit_user_name: GitHub Actions
+          commit_user_email: github-actions@github.com
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}

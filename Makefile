@@ -18,21 +18,28 @@ include .github/build/Makefile-show-help.mk
 #----------------------------------------------------------------------------
 # Academy
 # ---------------------------------------------------------------------------
-.PHONY: academy-setup academy-dev academy-staging academy-prod
+.PHONY: academy-setup academy-dev academy-staging academy-prod update-module
 
 academy-setup:
 	 npm i
 
 academy-prod:
-	 hugo --gc --minify --baseURL "https://cloud.layer5.io/academy" 
+	 hugo --gc --minify --baseURL "https://cloud.layer5.io/academy"
 
 academy-staging:
-	 hugo --gc --minify --baseURL "https://staging-cloud.layer5.io/academy" 
+	 hugo --gc --minify --baseURL "https://staging-cloud.layer5.io/academy"
 
 academy-dev:
-	hugo build  
+	hugo build
 
 academy-dev-live:
-	hugo serve 
+	hugo serve
 
 
+update-module:
+	@if [ -z "$(module)" ] || [ -z "$(version)" ]; then \
+		echo "Usage: make update-module module=<module-path> version=<version>"; \
+		exit 1; \
+	fi && \
+	echo "Updating Hugo module: $(module) to version $(version)" && \
+	hugo mod get $(module)@$(version)
