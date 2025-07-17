@@ -1,10 +1,10 @@
 # Copyright Layer5, Inc.
 #
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
+# Licensed under the GNU Affero General Public License, Version 3.0
+# (the # "License"); you may not use this file except in compliance
+# with the License. You may obtain a copy of the License at
 #
-#    http://www.apache.org/licenses/LICENSE-2.0
+#    https://www.gnu.org/licenses/agpl-3.0.en.html
 #
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
@@ -12,36 +12,27 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-include .github/build/Makefile.show-help.mk
+include .github/build/Makefile.core.mk
+include .github/build/Makefile-show-help.mk
 
-## Install docs.layer5.io dependencies on your local machine.
-## See https://gohugo.io/categories/installation
-setup:
-	npm install
+#----------------------------------------------------------------------------
+# Academy
+# ---------------------------------------------------------------------------
+.PHONY: academy-setup academy-dev academy-staging academy-prod
 
-## Run docs.layer5.io on your local machine with draft and future content enabled.
-site: check-go
-	hugo server -D -F
-	
-## Run docs.layer5.io on your local machine. Alternate method.
-site-fast:
-	gatsby develop
+academy-setup:
+	 npm i
 
-## Build docs.layer5.io on your local machine.
-build:
-	hugo
+academy-prod:
+	 hugo --gc --minify --baseURL "https://cloud.layer5.io/academy" 
 
-## Empty build cache and run docs.layer5.io on your local machine.
-clean: 
-	hugo --cleanDestinationDir
-	make site
+academy-staging:
+	 hugo --gc --minify --baseURL "https://staging-cloud.layer5.io/academy" 
 
-.PHONY: setup build site clean site-fast check-go
+academy-dev:
+	hugo build  
 
-check-go:
-	@echo "Checking if Go is installed..."
-	@command -v go > /dev/null || (echo "Go is not installed. Please install it before proceeding."; exit 1)
-	@echo "Go is installed."
+academy-dev-live:
+	hugo serve 
 
-docker:
-	docker compose watch
+
