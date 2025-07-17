@@ -1,6 +1,4 @@
 github.com/FortAwesome/Font-Awesome v0.0.0-20241216213156-af620534bfc3/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
-github.com/aabidsofi19/aabids-academy v0.0.0-20250715193846-f9e88fd98d8e h1:NPHdcC8OJfbQYJ9pcHSF/9ZbsIDsKRPzDqyYSvDcniw=
-github.com/aabidsofi19/aabids-academy v0.0.0-20250715193846-f9e88fd98d8e/go.mod h1:qNCJlkxHz9gOoek7Z3b6mVlLOI6zXm9Mkzx58QnO3FQ=
 github.com/aabidsofi19/aabids-academy v0.0.0-20250717065123-a42e4b42ea13 h1:nDTbJ8lxojjmhzxyR/FQ3bD6g4iWUe+lCpvypJmPqjQ=
 github.com/aabidsofi19/aabids-academy v0.0.0-20250717065123-a42e4b42ea13/go.mod h1:qNCJlkxHz9gOoek7Z3b6mVlLOI6zXm9Mkzx58QnO3FQ=
 github.com/google/docsy v0.12.0 h1:CddZKL39YyJzawr8GTVaakvcUTCJRAAYdz7W0qfZ2P4=
