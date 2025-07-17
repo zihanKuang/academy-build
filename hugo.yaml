@@ -205,12 +205,12 @@ module:
       disable: false
 
       mounts:
-        - source: content/learning-paths/aabid
-          target: content/learning-paths/aabid
+        - source: content/learning-paths/27e21312-1e0c-4b2b-a045-95fcde425f09
+          target: content/learning-paths/27e21312-1e0c-4b2b-a045-95fcde425f09
           disableWatch: false
-        - source: layouts/shortcodes/aabid
-          target: layouts/shortcodes/aabid
+        - source: layouts/shortcodes/27e21312-1e0c-4b2b-a045-95fcde425f09
+          target: layouts/shortcodes/27e21312-1e0c-4b2b-a045-95fcde425f09
           disableWatch: false
-        - source: static/aabid
-          target: static/aabid
+        - source: static/27e21312-1e0c-4b2b-a045-95fcde425f09
+          target: static/27e21312-1e0c-4b2b-a045-95fcde425f09
           disableWatch: false
