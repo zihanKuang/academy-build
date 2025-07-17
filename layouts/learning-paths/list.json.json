@@ -1,0 +1,35 @@
+
+{
+  "total": {{ len .Pages }},
+  "data": [
+    {{- $pages := .Pages -}}
+    {{- range $i, $p := $pages }}
+      {{- if $i }},{{ end }}
+
+      {{- $ctx := partial "resolve-tenant.html" $p -}}
+      {{- $uuid := $ctx.uuid -}}
+
+      {{- $children := $p.Pages }}
+
+      {
+        "title": {{ $p.Title | jsonify }},
+        "description": {{ $p.Description | jsonify }},
+        "banner": {{ $p.Params.Banner | absURL | jsonify }},
+        "permalink": {{ $p.Permalink | jsonify }},
+        "orgId": {{ $uuid | jsonify }},
+        "courses": [
+          {{- range $j, $c := $children }}
+            {{- if $j }},{{ end }}
+            {
+              "title": {{ $c.Title | jsonify }},
+              "description": {{ $c.Description | jsonify }},
+              "order": {{ $c.Params.Order | jsonify}},
+              "banner": {{ $c.Params.Banner | absURL | jsonify }},
+              "permalink": {{ $c.Permalink | jsonify }}
+            }
+          {{- end }}
+        ]
+      }
+    {{- end }}
+  ]
+}

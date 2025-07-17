@@ -1,0 +1,76 @@
+
+{
+  "total": 7,
+  "data": [
+
+      {
+        "title": "Introduction",
+        "description": "Learn how Dapr works by deploying Dapr and sample applications in a Kubernetes Cluster using Meshery.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/explore-dapr-with-meshery/dapr/introduction/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Deploy Dapr Control Plane",
+        "description": "This chapter takes you through the import, exploration and deployment of Dapr control plane components",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/explore-dapr-with-meshery/dapr/deploy-dapr-control-plane/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Deploy Redis",
+        "description": "This chapter covers the deployment of Redis Statestore",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/explore-dapr-with-meshery/dapr/deploy-redis/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Deploy Dapr StateStore Component",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/explore-dapr-with-meshery/dapr/deploy-dapr-statestore-component/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Deploy Python and NodeJS application",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/explore-dapr-with-meshery/dapr/deploy-python-and-nodejs-application/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "View Application Logs",
+        "description": "Use Meshery's interactive terminal to view logs of applications",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/explore-dapr-with-meshery/dapr/view-application-logs/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Conclusion",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/explore-dapr-with-meshery/dapr/conclusion/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      }
+  ]
+}

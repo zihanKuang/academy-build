@@ -1,0 +1,46 @@
+
+{
+  "total": 4,
+  "data": [
+
+      {
+        "title": "Exploring Edge Stack with Meshery Playground",
+        "description": "Ambassador Edge Stack is a powerful API gateway built on Envoy Proxy. It simplifies the configuration, deployment, and management of APIs in Kubernetes environments. With features like automatic TLS, authentication, rate limiting, load balancing, and observability, Ambassador Edge Stack ensures scalability and flexibility for high traffic volumes and distributed requests across multiple services in your cluster.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/introduction/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Edge Stack Configuration",
+        "description": "This chapter covers the configuration of the Edge Stack, including importing and deploying Edge Stack Custom Resource Definitions (CRDs) and YAML files. You will learn how to configure the necessary Ambassador Cloud license and set up essential components like Listener and Mapping resources. Finally, you will deploy a sample Quote service application to route traffic through Edge Stack.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/edge-stack-configuration/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Interpreting the Edge Stack Meshery Design",
+        "description": "This chapter explores the relationships between different components in the Ambassador Edge Stack (AES) system using a Kanvas design. It covers the roles and communication ports of each component, as well as the service account roles and relationships within the AES system.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/design-interpretation/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Conclusion",
+        "description": "Concluding this tutorial, you will gain a comprehensive understanding of how to configure, deploy, and manage the Ambassador Edge Stack with Meshery.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/conclusion/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      }
+  ]
+}

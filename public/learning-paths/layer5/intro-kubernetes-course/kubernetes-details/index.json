@@ -1,0 +1,46 @@
+
+{
+  "total": 4,
+  "data": [
+
+      {
+        "title": "Kubernetes ?",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/kubernetes/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Imperative vs Declarative",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/imperative-vs-declarative/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Features",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/features/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Kubernetes ...",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/kubernetes_/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      }
+  ]
+}

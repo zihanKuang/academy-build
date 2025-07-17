@@ -1,0 +1,16 @@
+
+{
+  "total": 1,
+  "data": [
+
+      {
+        "title": "Introduction",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/challenges/layer5/mastering-kubernetes-for-engineers/scalable-postgres-with-cloudnativepg/postgres/introduction/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      }
+  ]
+}

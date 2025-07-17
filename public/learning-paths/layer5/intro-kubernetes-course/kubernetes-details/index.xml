@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3. Kubernetes Details on Layer5 Academy</title>
+    <link>http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/</link>
+    <description>Recent content in 3. Kubernetes Details on Layer5 Academy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kubernetes ?</title>
+      <link>http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/kubernetes/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;Kubernetes ?&lt;/h2&gt;&#xA;&lt;p&gt;Google open-sourced the Kubernetes project in 2014. Kubernetes combines over 15 years of Google&amp;rsquo;s experience running production workloads at scale with best-of-breed ideas and practices from the community.&lt;/p&gt;&#xA;&lt;p&gt;The name Kubernetes originates from Greek, meaning helmsman or pilot.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34; style=&#34;text-align: center; margin: 1rem 0;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:9876/academy/images/learning-path/intro-kubernetes/kubernetes-details/c3_l1_1.png&#34; alt=&#34;Helmsman&#34;  style=&#34;width: 100%; border-radius: 0% !important;&#34;  data-modal=&#34;true&#34; onclick=&#34;openModal(this)&#34; /&gt;&#xA;  &lt;p&gt;Helmsman&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p style=&#34;text-align: center;&#34;&gt;&#xA;&lt;strong &gt;&#xA;Kubernetes is a portable, extensible, open-source platform for managing containerized &lt;/br&gt; workloads and services that facilitates both automation and declarative configuration.&#xA;&lt;/strong&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Imperative vs Declarative</title>
+      <link>http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/imperative-vs-declarative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/imperative-vs-declarative/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;Configuration Differences&lt;/h2&gt;&#xA;&lt;p&gt;&lt;i&gt;What a difference a configuration make :).&lt;/i&gt;&lt;/p&gt;&#xA;&lt;p&gt;The significant change in this new IT world is that well-trained and practiced processes are outdated and useless. The imperative was the old world, you defined step-by-step guidance, and you also executed or overseen the execution of those configuration steps. The declarative way is to determine the desired state and an intelligent system conducts and supervises the configuration and operation steps.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/features/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;div class=&#34;image-container&#34; style=&#34;text-align: center; margin: 1rem 0;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:9876/academy/images/learning-path/intro-kubernetes/kubernetes-details/c3_l3_1.png&#34; alt=&#34;Kubernetes Features&#34;  style=&#34;width: 100%; border-radius: 0% !important;&#34;  data-modal=&#34;true&#34; onclick=&#34;openModal(this)&#34; /&gt;&#xA;  &lt;p&gt;Kubernetes Features&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 class=&#34;chapter-sub-heading&#34; &gt;Kubernetes provides the following features&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;self-healing&lt;/strong&gt;&#xA;&lt;/br&gt;&#xA;Kubernetes restarts containers that fail, replaces containers, kills containers that don&amp;rsquo;t respond to your user-defined health check, and doesn&amp;rsquo;t advertise them to clients until they are ready to serve.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;automatic bin packing&lt;/strong&gt;&#xA;&lt;/br&gt;&#xA;you provide Kubernetes with a cluster of nodes that it can use to run containerized tasks. You tell Kubernetes how much CPU and RAM each container needs. Kubernetes can fit containers onto your nodes to make the best use of your resources.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kubernetes ...</title>
+      <link>http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/kubernetes_/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/kubernetes_/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;Kubernetes is ...&lt;/h2&gt;&#xA;&lt;p&gt;&amp;hellip; &lt;strong&gt;providing&lt;/strong&gt; the building blocks for creating developer and infrastructure platforms but preserves user choice and flexibility where it is essential.&lt;/p&gt;&#xA;&lt;p&gt;&amp;hellip; &lt;strong&gt;extensible&lt;/strong&gt;, and lets users integrate their logging, monitoring, alerting, and many more solutions because it is not monolithic, and these solutions are optional and pluggable.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34; style=&#34;text-align: center; margin: 1rem 0;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:9876/academy/images/learning-path/intro-kubernetes/kubernetes-details/c3_l4_1.png&#34; alt=&#34;Pluggable Solutions&#34;  style=&#34;width: 100%; border-radius: 0% !important;&#34;  data-modal=&#34;true&#34; onclick=&#34;openModal(this)&#34; /&gt;&#xA;  &lt;p&gt;Pluggable Solutions&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 class=&#34;chapter-sub-heading&#34;&gt;Kubernetes does NOT ...&lt;/h2&gt;&#xA;&lt;p&gt;&amp;hellip; &lt;strong&gt;limit the types of applications supported.&lt;/strong&gt;&#xA;&lt;/br&gt;&#xA;Kubernetes aims to support a highly diverse workload, including stateless, stateful, and data-processing workloads. If an application can run in a container, it should run great on Kubernetes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

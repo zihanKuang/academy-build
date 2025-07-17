@@ -1,0 +1,76 @@
+
+{
+  "total": 7,
+  "data": [
+
+      {
+        "title": "Deploying WordPress and MySQL with Persistent Volumes with Meshery",
+        "description": "Get started with Meshery playground",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/challenges/layer5/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/introduction/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Import Designs",
+        "description": "Here we will import the design files in Meshery Playground and learn how to merge designs.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/challenges/layer5/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/import-designs/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Configure Components",
+        "description": "In this section you will create and configure Persistent Volumes, Persistent Volume Claims and a Secret for the Database.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/challenges/layer5/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/configure-components/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Group Components",
+        "description": "In this section you will add labels to components and learn how to group them.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/challenges/layer5/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/group-components/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Deploy Resources",
+        "description": "In this section you will validate your design and deploy the resources to a Kubernetes cluster",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/challenges/layer5/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/deploy/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Visualize Resources",
+        "description": "In this section you will use the Visualize tool to see the resources in the cluster",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/challenges/layer5/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/visualize/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Conclusion",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/challenges/layer5/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/conclusion/",
+        "orgId": "layer5",
+        "courses": [
+        ]
+      }
+  ]
+}

@@ -1,0 +1,26 @@
+
+{
+  "total": 2,
+  "data": [
+
+      {
+        "title": "Without Container Orchestration",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes/content/without-container-orchestration/",
+        "orgId": "11111111-1111-1111-1111-111111111111",
+        "courses": [
+        ]
+      },
+
+      {
+        "title": "Kubernetes in Plain English",
+        "description": "",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes/content/kubernetes-in-plain-english/",
+        "orgId": "11111111-1111-1111-1111-111111111111",
+        "courses": [
+        ]
+      }
+  ]
+}

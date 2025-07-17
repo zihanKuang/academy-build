@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4. Kubernetes Building Blocks on Layer5 Academy</title>
+    <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/</link>
+    <description>Recent content in 4. Kubernetes Building Blocks on Layer5 Academy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Important Building Blocks</title>
+      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/important-building-blocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/important-building-blocks/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;Important Building Blocks&lt;/h2&gt;&#xA;&lt;p&gt;An application running on Kubernetes is a workload. Whether your workload is a single component or several that work together, on Kubernetes, you run it inside a set of Pods. In Kubernetes, a Pod represents a set of running containers on your cluster.&lt;/p&gt;&#xA;&lt;p&gt;A critical fault on the node where your Pod runs means that all the Pods on that node fail. Kubernetes treats that level of failure as final: you would need to create a new Pod to recover, even if the node later becomes healthy. However, to make life easier, you don&amp;rsquo;t need to manage each Pod directly.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PODs</title>
+      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/pods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/pods/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;PODs&lt;/h2&gt;&#xA;&lt;p&gt;Pods are the basic building blocks to run containers inside of Kubernetes. Every Pod holds at least one container and controls the execution of that container. If all containers terminate, the Pod terminates too. Mounting storage, setting environment variables, and feed information into the container are all functions provided by the Pod.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34; style=&#34;text-align: center; margin: 1rem 0;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:9876/academy/images/learning-path/intro-kubernetes/kubernetes_building_blocks/c4_l2_1.png&#34; alt=&#34;PODs&#34;  style=&#34;width: 100%; border-radius: 0% !important;&#34;  data-modal=&#34;true&#34; onclick=&#34;openModal(this)&#34; /&gt;&#xA;  &lt;p&gt;PODs&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Pods are the smallest deployable units of computing that you can create and manage in Kubernetes. Pods in a Kubernetes cluster are used in two main ways:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>REPLICASETs</title>
+      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/replicasets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/replicasets/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;REPLICASETs&lt;/h2&gt;&#xA;&lt;p&gt;A ReplicaSet&amp;rsquo;s purpose is to maintain a stable set of replica Pods running at any given time to guarantee the availability of a specified number of identical Pods. However, a Deployment is a higher-level concept that manages ReplicaSets and provides declarative updates to Pods and other useful features. Therefore, Deployments are recommended instead of directly using ReplicaSets.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34; style=&#34;text-align: center; margin: 1rem 0;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:9876/academy/images/learning-path/intro-kubernetes/kubernetes_building_blocks/c4_l3_1.gif&#34; alt=&#34;REPLICASETs&#34;  style=&#34;width: 100%; border-radius: 0% !important;&#34;  data-modal=&#34;true&#34; onclick=&#34;openModal(this)&#34; /&gt;&#xA;  &lt;p&gt;REPLICASETs&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>DEAMONSETs</title>
+      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/deamonsets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/deamonsets/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;DEAMONSETs&lt;/h2&gt;&#xA;&lt;p&gt;DaemonSets have many use cases – one frequent pattern is to use DaemonSets to install or configure each host node. DaemonSets provide a way to ensure that a Pod copy is running on every node in the cluster. As a cluster grows and shrinks, the DaemonSet spreads these specially labelled Pods across all nodes.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34; style=&#34;text-align: center; margin: 1rem 0;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:9876/academy/images/learning-path/intro-kubernetes/kubernetes_building_blocks/c4_l4_1.gif&#34; alt=&#34;DEAMONSETs&#34;  style=&#34;width: 100%; border-radius: 0% !important;&#34;  data-modal=&#34;true&#34; onclick=&#34;openModal(this)&#34; /&gt;&#xA;  &lt;p&gt;DEAMONSETs&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>DEPLOYMENTs</title>
+      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/deployments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/deployments/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;DEPLOYMENTs&lt;/h2&gt;&#xA;&lt;p&gt;A ReplicaSet&amp;rsquo;s purpose is to maintain a stable set of replica Pods running at any given time to guarantee the avaiA Deployment is a higher-order abstraction that controls deploying and maintaining a set of Pods. Behind the scenes, it uses a ReplicaSet to keep the Pods running, but it offers sophisticated logic for deploying, updating, and scaling a set of Pods within a cluster. Deployments support rollbacks and rolling updates. Rollouts can be paused if needed.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>INGRESS</title>
+      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/ingress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/ingress/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;INGRESS&lt;/h2&gt;&#xA;&lt;p&gt;Route traffic to and from the cluster. Provide a single SSL endpoint for multiple applications. Many implementations of an ingress allow you to customize your platform. Ingresses provide a way to declare that they should channel traffic from the outside of the cluster into destination points within the cluster. One single external Ingress point can accept traffic destined to many internal services.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34; style=&#34;text-align: center; margin: 1rem 0;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:9876/academy/images/learning-path/intro-kubernetes/kubernetes_building_blocks/c4_l6_1.gif&#34; alt=&#34;INGRESS&#34;  style=&#34;width: 100%; border-radius: 0% !important;&#34;  data-modal=&#34;true&#34; onclick=&#34;openModal(this)&#34; /&gt;&#xA;  &lt;p&gt;INGRESS&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CRONJOBs</title>
+      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/cronjobs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/cronjobs/</guid>
+      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;CRONJOBs&lt;/h2&gt;&#xA;&lt;p&gt;Use familiar &lt;strong&gt;cron&lt;/strong&gt; syntax to schedule tasks. CronJobs are part of the Batch API for creating short-lived non-server tools. CronJobs provide a method for scheduling the execution of Pods. They are excellent for running periodic tasks like backups, reports, and automated tests.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34; style=&#34;text-align: center; margin: 1rem 0;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:9876/academy/images/learning-path/intro-kubernetes/kubernetes_building_blocks/c4_l7_1.png&#34; alt=&#34;CRONJOBs&#34;  style=&#34;width: 100%; border-radius: 0% !important;&#34;  data-modal=&#34;true&#34; onclick=&#34;openModal(this)&#34; /&gt;&#xA;  &lt;p&gt;CRONJOBs&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

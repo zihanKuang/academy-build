@@ -1,0 +1,213 @@
+
+{
+  "total": 6,
+  "data": [
+
+      {
+        "title": "1. Why Containers?",
+        "description": "This section provides an introduction to containers, their architecture, and how they are used in modern software development.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/containers/",
+        "orgId": "layer5",
+        "courses": [
+            {
+              "title": "Experiences we want to change!",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/containers/content/experience-we-want-to-change/"
+            },
+            {
+              "title": "New Ideas \u0026 Concepts",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/containers/content/new-ideas-and-concepts/"
+            },
+            {
+              "title": "Container Benefits",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/containers/content/container-benefits/"
+            },
+            {
+              "title": "History of Application Deployments",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/containers/content/history_of_application_deployment/"
+            }
+        ]
+      },
+
+      {
+        "title": "2. Why Kubernetes?",
+        "description": "This section provides an introduction to Kubernetes, its architecture, and how it is used in modern software development.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes/",
+        "orgId": "layer5",
+        "courses": [
+            {
+              "title": "Without Container Orchestration",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes/content/without-container-orchestration/"
+            },
+            {
+              "title": "Kubernetes in Plain English",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes/content/kubernetes-in-plain-english/"
+            }
+        ]
+      },
+
+      {
+        "title": "3. Kubernetes Details",
+        "description": "Learn the details of Kubernetes, including its architecture, components, and how it manages containerized applications.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/",
+        "orgId": "layer5",
+        "courses": [
+            {
+              "title": "Kubernetes ?",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/kubernetes/"
+            },
+            {
+              "title": "Imperative vs Declarative",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/imperative-vs-declarative/"
+            },
+            {
+              "title": "Features",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/features/"
+            },
+            {
+              "title": "Kubernetes ...",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-details/content/kubernetes_/"
+            }
+        ]
+      },
+
+      {
+        "title": "4. Kubernetes Building Blocks",
+        "description": "Learn the details of Kubernetes, including its architecture, components, and how it manages containerized applications.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-building-blocks/",
+        "orgId": "layer5",
+        "courses": [
+            {
+              "title": "Important Building Blocks",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-building-blocks/content/important-building-blocks/"
+            },
+            {
+              "title": "PODs",
+              "description": "Pods are the basic building blocks to run containers inside of Kubernetes. Every Pod holds at least one container and controls the execution of that container.",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-building-blocks/content/pods/"
+            },
+            {
+              "title": "REPLICASETs",
+              "description": "ReplicaSets are a fundamental building block in Kubernetes, ensuring that a specified number of identical Pods are running at all times.",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-building-blocks/content/replicasets/"
+            },
+            {
+              "title": "DEAMONSETs",
+              "description": "DaemonSets have many use cases – one frequent pattern is to use DaemonSets to install or configure each host node. DaemonSets provide a way to ensure that a Pod copy is running on every node in the cluster. As a cluster grows and shrinks, the DaemonSet spreads these specially labelled Pods across all nodes.",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-building-blocks/content/deamonsets/"
+            },
+            {
+              "title": "DEPLOYMENTs",
+              "description": "Deployments are a higher-order abstraction that controls deploying and maintaining a set of Pods. They support sophisticated logic for deploying, updating, and scaling Pods within a cluster.",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-building-blocks/content/deployments/"
+            },
+            {
+              "title": "INGRESS",
+              "description": "Ingresses provide a way to declare that they should channel traffic from the outside of the cluster into destination points within the cluster. One single external Ingress point can accept traffic destined to many internal services.",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-building-blocks/content/ingress/"
+            },
+            {
+              "title": "CRONJOBs",
+              "description": "CronJobs are part of the Batch API for creating short-lived non-server tools. They provide a method for scheduling the execution of Pods, making them excellent for running periodic tasks like backups, reports, and automated tests.",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/kubernetes-building-blocks/content/cronjobs/"
+            }
+        ]
+      },
+
+      {
+        "title": "5. Why Managed Kubernetes?",
+        "description": "Learn about the benefits of using managed Kubernetes services and how they can simplify your Kubernetes experience.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/managed-kubernetes/",
+        "orgId": "layer5",
+        "courses": [
+            {
+              "title": "Managed Kubernetes",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/managed-kubernetes/content/managed-kubernetes/"
+            },
+            {
+              "title": "Managed Ecosystems",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/managed-kubernetes/content/managed-ecosystems/"
+            }
+        ]
+      },
+
+      {
+        "title": "6. Why Exoscale SKS?",
+        "description": "Learn about Exoscale's Kubernetes Service (SKS) and how it provides a managed Kubernetes experience tailored for European users.",
+        "banner": "http://localhost:9876/academy/",
+        "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/exoscale-sks/",
+        "orgId": "layer5",
+        "courses": [
+            {
+              "title": "Scalable Kubernetes Service",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/exoscale-sks/content/scalable-kubernetes-services/"
+            },
+            {
+              "title": "Packaging \u0026 Pricing",
+              "description": "",
+              "order": null,
+              "banner": "http://localhost:9876/academy/",
+              "permalink": "http://localhost:9876/academy/learning-paths/layer5/intro-kubernetes-course/exoscale-sks/content/packaging-pricing/"
+            }
+        ]
+      }
+  ]
+}
