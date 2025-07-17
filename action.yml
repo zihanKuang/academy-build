@@ -24,7 +24,7 @@ runs:
       id: update
       run: |
         set -e
-        RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "http://cloud.layer5.io/api/academy/${{ inputs.orgId }}/update/${{ inputs.version }}" \
+        RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "https://cloud.layer5.io/api/academy/${{ inputs.orgId }}/update/${{ inputs.version }}" \
           -H "Authorization: Bearer ${{ inputs.token }}" \
           -H "Content-Type: application/json")
 
