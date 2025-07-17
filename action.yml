@@ -1,0 +1,44 @@
+name: 'Update Academy'
+description: 'Triggers update of academy content for a given orgId and version using an API'
+author: 'Layer5'
+inputs:
+  orgId:
+    description: 'Organization ID to update academy content for'
+    required: true
+  token:
+    description: 'Bearer token for authorization'
+    required: true
+  version:
+    description: 'Version of the module to update. Defaults to "latest"'
+    required: false
+    default: 'latest'
+outputs:
+  response:
+    value: ${{ steps.update.outputs.RESOURCE_URL }}
+    description: 'Response from the API call'
+runs:
+  using: 'composite'
+  steps:
+    - name: Call academy update API
+      shell: bash
+      id: update
+      run: |
+        set -e
+        RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "http://cloud.layer5.io/api/academy/${{ inputs.orgId }}/update/${{ inputs.version }}" \
+          -H "Authorization: Bearer ${{ inputs.token }}" \
+          -H "Content-Type: application/json")
+
+        BODY=$(echo "$RESPONSE" | head -n -1)
+        STATUS=$(echo "$RESPONSE" | tail -n1)
+
+        echo "API response status: $STATUS"
+        echo "API response body: $BODY"
+
+        if [[ "$STATUS" -ge 200 && "$STATUS" -lt 300 ]]; then
+          echo "response<<EOF" >> $GITHUB_OUTPUT
+          echo "$BODY" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+        else
+          echo "::error::Failed to update academy (HTTP $STATUS): $BODY"
+          exit 1
+        fi
