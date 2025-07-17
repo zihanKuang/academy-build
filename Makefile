@@ -24,10 +24,10 @@ academy-setup:
 	 npm i
 
 academy-prod:
-	 hugo --gc --minify --baseURL "https://cloud.layer5.io/academy"
+	 hugo  --cleanDestinationDir --gc --minify --baseURL "https://cloud.layer5.io/academy"
 
 academy-staging:
-	 hugo --gc --minify --baseURL "https://staging-cloud.layer5.io/academy"
+	 hugo --cleanDestinationDir --gc --minify --baseURL "https://staging-cloud.layer5.io/academy"
 
 academy-dev:
 	hugo build
@@ -45,5 +45,6 @@ update-module:
 	hugo mod get $(module)@$(version)
 
 sync-with-cloud:
+	rm -rf ../meshery-cloud/academy
 	mkdir -p ../meshery-cloud/academy
 	rsync -av --delete public/ ../meshery-cloud/academy/

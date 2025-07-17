@@ -79,6 +79,7 @@ jobs:
 
       - name: Copy build output to /academy
         run: |
+          rm -rf meshery-cloud/academy
           mkdir -p meshery-cloud/academy
           rsync -av --delete public/ meshery-cloud/academy/
 
