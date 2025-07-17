@@ -1,39 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ambassador Edge Stack API Gateway with Meshery on Layer5 Academy</title>
-    <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/</link>
-    <description>Recent content in Ambassador Edge Stack API Gateway with Meshery on Layer5 Academy</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Exploring Edge Stack with Meshery Playground</title>
-      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/introduction/</guid>
-      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In this tutorial, you will explore Edge Stack using Meshery Playground. You&amp;rsquo;ll get hands-on experience importing YAML files that contain Edge Stack configurations and Custom Resource Definitions (CRDs).&lt;/p&gt;&#xA;&lt;p&gt;You&amp;rsquo;ll use Kanvas to view, configure, and deploy Kubernetes resources, including Edge Stack with its custom resources and a sample application. Additionally, you&amp;rsquo;ll leverage Meshery&amp;rsquo;s visualization tool to filter the deployed resources in your cluster.&lt;/p&gt;&#xA;&lt;h2 class=&#34;chapter-sub-heading&#34;&gt;Objectives&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will guide you through exploring Edge Stack using Meshery Playground. You&amp;rsquo;ll cover:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Edge Stack Configuration</title>
-      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/edge-stack-configuration/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/edge-stack-configuration/</guid>
-      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;p&gt;In this chapter, you will import and deploy Edge Stack Custom Resource Definitions (CRDs) and YAML files. You&amp;rsquo;ll learn how to configure the necessary Ambassador Cloud license and set up essential components like Listener and Mapping resources. Finally, you&amp;rsquo;ll deploy a sample Quote service application to route traffic through Edge Stack.&lt;/p&gt;&#xA;&lt;h2 class=&#34;chapter-sub-heading&#34;&gt;Steps&lt;/h2&gt;&#xA;&lt;h3 class=&#34;chapter-sub-heading&#34;&gt;Import Edge Stack CRD YAML and Deploy&lt;/h3&gt;&#xA;&lt;p&gt;The Edge Stack CRD YAML file typically contains the definitions for custom resources used by Edge Stack. These definitions include the schemas and validation rules for resources like Mappings, Hosts, TLSContexts, RateLimits, Filters, and more. These custom resources allow you to define and manage the various aspects of your API gateway configuration, such as routing, authentication, rate limiting, and TLS settings, directly within your Kubernetes cluster.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Interpreting the Edge Stack Meshery Design</title>
-      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/design-interpretation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/design-interpretation/</guid>
-      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;h2 class=&#34;chapter-sub-heading&#34;&gt;&#xA;  Exploring the Relationships Between Edge Stack Resources with a Kanvas Design&#xA;&lt;/h2&gt;&#xA;&lt;h3 class=&#34;chapter-sub-heading&#34;&gt;Services and Deployments&lt;/h3&gt;&#xA;&lt;p&gt;The design below shows the traffic flow between some major components in the the Ambassador Edge Stack (AES) system.&lt;/p&gt;&#xA;&lt;div class=&#34;image-container&#34; style=&#34;text-align: center; margin: 1rem 0;&#34;&gt;&#xA;  &lt;img src=&#34;http://localhost:9876/academy/images/learning-path/edge-stack/es8.png&#34; alt=&#34;&#34;  style=&#34;width: 100%; border-radius: 0% !important;&#34;  data-modal=&#34;true&#34; onclick=&#34;openModal(this)&#34; /&gt;&#xA;  &lt;p&gt;&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;The components include ;&lt;/p&gt;&#xA;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;edge-stack-agent Deployment&lt;/li&gt;&#xA;&lt;li&gt;edge-stack Deployment&lt;/li&gt;&#xA;&lt;li&gt;edge-stack-admin Service and&lt;/li&gt;&#xA;&lt;li&gt;edge-stack Service&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s take a look at the roles of each component and the ports used for communication.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Conclusion</title>
-      <link>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/conclusion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:9876/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/conclusion/</guid>
-      <description>&lt;div class=&#34;chapter-content&#34;&gt;&#xA;  &lt;p&gt;In this tutorial, you explored the Ambassador Edge Stack (AES) system using Meshery Playground. By leveraging &lt;strong&gt;Kanvas&lt;/strong&gt;, you were able to clearly visualize resource relationships, providing a view of the functionalities and roles within the AES system. You should now have a solid understanding of how to configure, deploy, and manage the Ambassador Edge Stack with Meshery.&lt;/p&gt;&#xA;&lt;p&gt;Here&amp;rsquo;s a recap of the lessons learned in this course:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The Ambassador Edge Stack (AES) system can be explored using Meshery Playground.&lt;/li&gt;&#xA;&lt;li&gt;Kanvas provides a clear visualization of resource relationships in the AES system.&lt;/li&gt;&#xA;&lt;li&gt;Configuring, deploying, and managing the Ambassador Edge Stack with Meshery is now well understood.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;By following this tutorial, you have gained a comprehensive understanding of the Ambassador Edge Stack and its integration with Meshery. Congratulations on completing the course!&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ambassador Edge Stack API Gateway with Meshery on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/</link><description>Recent content in Ambassador Edge Stack API Gateway with Meshery on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/index.xml" rel="self" type="application/rss+xml"/><item><title>Exploring Edge Stack with Meshery Playground</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/introduction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/introduction/</guid><description>&lt;div class="chapter-content">
+ &lt;h2 class="chapter-sub-heading">Overview&lt;/h2>
+&lt;p>In this tutorial, you will explore Edge Stack using Meshery Playground. You&amp;rsquo;ll get hands-on experience importing YAML files that contain Edge Stack configurations and Custom Resource Definitions (CRDs).&lt;/p>
+&lt;p>You&amp;rsquo;ll use Kanvas to view, configure, and deploy Kubernetes resources, including Edge Stack with its custom resources and a sample application. Additionally, you&amp;rsquo;ll leverage Meshery&amp;rsquo;s visualization tool to filter the deployed resources in your cluster.&lt;/p>
+&lt;h2 class="chapter-sub-heading">Objectives&lt;/h2>
+&lt;p>This tutorial will guide you through exploring Edge Stack using Meshery Playground. You&amp;rsquo;ll cover:&lt;/p></description></item><item><title>Edge Stack Configuration</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/edge-stack-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/edge-stack-configuration/</guid><description>&lt;div class="chapter-content">
+ &lt;p>In this chapter, you will import and deploy Edge Stack Custom Resource Definitions (CRDs) and YAML files. You&amp;rsquo;ll learn how to configure the necessary Ambassador Cloud license and set up essential components like Listener and Mapping resources. Finally, you&amp;rsquo;ll deploy a sample Quote service application to route traffic through Edge Stack.&lt;/p>
+&lt;h2 class="chapter-sub-heading">Steps&lt;/h2>
+&lt;h3 class="chapter-sub-heading">Import Edge Stack CRD YAML and Deploy&lt;/h3>
+&lt;p>The Edge Stack CRD YAML file typically contains the definitions for custom resources used by Edge Stack. These definitions include the schemas and validation rules for resources like Mappings, Hosts, TLSContexts, RateLimits, Filters, and more. These custom resources allow you to define and manage the various aspects of your API gateway configuration, such as routing, authentication, rate limiting, and TLS settings, directly within your Kubernetes cluster.&lt;/p></description></item><item><title>Interpreting the Edge Stack Meshery Design</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/design-interpretation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/design-interpretation/</guid><description>&lt;div class="chapter-content">
+ &lt;h2 class="chapter-sub-heading">
+ Exploring the Relationships Between Edge Stack Resources with a Kanvas Design
+&lt;/h2>
+&lt;h3 class="chapter-sub-heading">Services and Deployments&lt;/h3>
+&lt;p>The design below shows the traffic flow between some major components in the the Ambassador Edge Stack (AES) system.&lt;/p>
+&lt;div class="image-container" style="text-align: center; margin: 1rem 0;">
+ &lt;img src="https://cloud.layer5.io/academy/images/learning-path/edge-stack/es8.png" alt="" style="width: 100%; border-radius: 0% !important;" data-modal="true" onclick="openModal(this)" />
+ &lt;p>&lt;/p>
+&lt;/div>
+&lt;p>The components include ;&lt;/p>
+&lt;ol start="2">
+&lt;li>edge-stack-agent Deployment&lt;/li>
+&lt;li>edge-stack Deployment&lt;/li>
+&lt;li>edge-stack-admin Service and&lt;/li>
+&lt;li>edge-stack Service&lt;/li>
+&lt;/ol>
+&lt;p>Let&amp;rsquo;s take a look at the roles of each component and the ports used for communication.&lt;/p></description></item><item><title>Conclusion</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/conclusion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/conclusion/</guid><description>&lt;div class="chapter-content">
+ &lt;p>In this tutorial, you explored the Ambassador Edge Stack (AES) system using Meshery Playground. By leveraging &lt;strong>Kanvas&lt;/strong>, you were able to clearly visualize resource relationships, providing a view of the functionalities and roles within the AES system. You should now have a solid understanding of how to configure, deploy, and manage the Ambassador Edge Stack with Meshery.&lt;/p>
+&lt;p>Here&amp;rsquo;s a recap of the lessons learned in this course:&lt;/p>
+&lt;ol>
+&lt;li>The Ambassador Edge Stack (AES) system can be explored using Meshery Playground.&lt;/li>
+&lt;li>Kanvas provides a clear visualization of resource relationships in the AES system.&lt;/li>
+&lt;li>Configuring, deploying, and managing the Ambassador Edge Stack with Meshery is now well understood.&lt;/li>
+&lt;/ol>
+&lt;p>By following this tutorial, you have gained a comprehensive understanding of the Ambassador Edge Stack and its integration with Meshery. Congratulations on completing the course!&lt;/p></description></item></channel></rss>
