@@ -43,3 +43,7 @@ update-module:
 	fi && \
 	echo "Updating Hugo module: $(module) to version $(version)" && \
 	hugo mod get $(module)@$(version)
+
+sync-with-cloud:
+	mkdir -p ../meshery-cloud/academy
+	rsync -av --delete public/ ../meshery-cloud/academy/
