@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Service on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/service/</link><description>Recent content in Service on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/service/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/service/content/learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/service/content/learn/</guid><description>&lt;h2 id="what-is-a-service-">What is a Service ?&lt;a class="td-heading-self-link" href="#what-is-a-service-" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>A Service is used to expose Pods so that other Pods, or the external world, can access them. It uses labels to group Pods. There are different types of Services:&lt;/p>
+&lt;ul>
+&lt;li>ClusterIP to expose Pods inside the cluster&lt;/li>
+&lt;li>NodePort, LoadBalancer to expose Pods to the outside world&lt;/li>
+&lt;/ul>
+&lt;p>Each time a Service receive a request, this one is load-balanced between the Pods exposed by a Service.&lt;/p></description></item><item><title>Practice</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/service/content/practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/service/content/practice/</guid><description>&lt;h2 id="add-services-to-the-votingapp">Add Services to the VotingApp&lt;a class="td-heading-self-link" href="#add-services-to-the-votingapp" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>In the &lt;em>votingapp&lt;/em> directory, create YAML files containing the specifications for the Services of each microservice in the application, according to the table below:&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Microservice&lt;/th>
+ &lt;th>File Name&lt;/th>
+ &lt;th>Service Type&lt;/th>
+ &lt;th>Service Details&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Vote UI&lt;/td>
+ &lt;td>svc-voteui.yaml&lt;/td>
+ &lt;td>NodePort (31000)&lt;/td>
+ &lt;td>nodePort 31000, port: 80, targetPort: 80&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vote&lt;/td>
+ &lt;td>svc-vote.yaml&lt;/td>
+ &lt;td>ClusterIP&lt;/td>
+ &lt;td>port: 5000, targetPort: 5000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Redis&lt;/td>
+ &lt;td>svc-redis.yaml&lt;/td>
+ &lt;td>ClusterIP&lt;/td>
+ &lt;td>port: 6379, targetPort: 6379&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Postgres&lt;/td>
+ &lt;td>svc-db.yaml&lt;/td>
+ &lt;td>ClusterIP&lt;/td>
+ &lt;td>port: 5432, targetPort: 5432&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Result&lt;/td>
+ &lt;td>svc-result.yaml&lt;/td>
+ &lt;td>ClusterIP&lt;/td>
+ &lt;td>port: 5000, targetPort: 5000&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Result UI&lt;/td>
+ &lt;td>svc-resultui.yaml&lt;/td>
+ &lt;td>NodePort (31001)&lt;/td>
+ &lt;td>nodePort 31001, port: 80, targetPort: 80&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;p>Note that it is not necessary to expose the &lt;em>worker&lt;/em> Pod with a Service as no Pod needs to connect to it. Instead, it is the &lt;em>worker&lt;/em> Pod that connects to &lt;em>redis&lt;/em> and &lt;em>db&lt;/em>.&lt;/p></description></item></channel></rss>
