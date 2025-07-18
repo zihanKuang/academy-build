@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Why Storage ? on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/why-storage/</link><description>Recent content in Why Storage ? on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/why-storage/index.xml" rel="self" type="application/rss+xml"/><item><title>Calculate Scenario Pricing</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/why-storage/content/defination/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/why-storage/content/defination/</guid><description>&lt;h3 id="definition">&lt;strong>Definition&lt;/strong>&lt;a class="td-heading-self-link" href="#definition" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>Storage is crucial for preserving and accessing computer data, files, applications, and other digital content. Storage refers to the process of storing and retrieving data or information. It is an essential component of any computer system.&lt;/p>
+&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit1-storage-color.jpg" alt="storage">&lt;/p>
+&lt;h3 id="basic-storage-types">&lt;strong>Basic Storage Types&lt;/strong>&lt;a class="td-heading-self-link" href="#basic-storage-types" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>There are several basic types of storage that are commonly used in computing systems. Here are the most common types:&lt;/p>
+&lt;h4 id="primary-storage">&lt;strong>Primary Storage&lt;/strong>&lt;a class="td-heading-self-link" href="#primary-storage" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;p>It is volatile, meaning its contents are lost when the computer is powered off or restarted. The computer&amp;rsquo;s immediate storage space that holds processed data is also known as main memory or RAM (Random Access Memory). Primary storage is much faster than secondary storage but has limited capacity and is more expensive.&lt;/p></description></item><item><title>Storage Criteria</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/why-storage/content/overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/why-storage/content/overview/</guid><description>&lt;h3 id="overview">&lt;strong>Overview&lt;/strong>&lt;a class="td-heading-self-link" href="#overview" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit2-criteria.png" alt="storage">&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Criteria&lt;/th>
+ &lt;th>Description&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Performance&lt;/td>
+ &lt;td>Storage read and write operations access speed&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Scalability&lt;/td>
+ &lt;td>Increase or decrease the amount of storage&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Redundancy&lt;/td>
+ &lt;td>Replicating data across multiple storage devices&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Retention&lt;/td>
+ &lt;td>Period of time that data is stored and maintained&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Capacity&lt;/td>
+ &lt;td>Amount of data that can be stored&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Archive&lt;/td>
+ &lt;td>Service that is designed for long-term retention&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Costs&lt;/td>
+ &lt;td>Expenses associated with storing data&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>Storage Duration</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/why-storage/content/storage-duration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/why-storage/content/storage-duration/</guid><description>&lt;h3 id="explained">&lt;strong>Explained&lt;/strong>&lt;a class="td-heading-self-link" href="#explained" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>Storage Duration or Data Retention refers to the period of time that data is stored and maintained in a system or storage medium. It represents the duration for which data is preserved and remains accessible for retrieval or reference.&lt;/p>
+&lt;p>Data retention policies are typically defined by organizations to determine how long different types of data should be retained. These policies are influenced by various factors, including legal requirements, industry regulations, business needs, and data management best practices.&lt;/p></description></item></channel></rss>
