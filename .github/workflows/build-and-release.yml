@@ -97,5 +97,3 @@ jobs:
           file_pattern: academy
           commit_user_name: GitHub Actions
           commit_user_email: github-actions@github.com
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
