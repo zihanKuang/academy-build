@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       orgId:
-        description: 'Organization UUID '
+        description: 'Organization ID (see https://cloud.layer5.io/identity/organizations for ID)'
         required: false
         type: string
       version:
