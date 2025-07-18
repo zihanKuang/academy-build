@@ -1,5 +1,4 @@
 
-
 # 🏫 Update Academy Action
 
 **Trigger an academy content update for your organization using the Layer5 Cloud API.**
