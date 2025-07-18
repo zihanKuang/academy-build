@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       orgId:
-        description: 'Organization ID or slug (e.g., aabid)'
+        description: 'Organization UUID '
         required: false
         type: string
       version:
