@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SKS Welcome on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/sks-welcome/</link><description>Recent content in SKS Welcome on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/sks-welcome/index.xml" rel="self" type="application/rss+xml"/><item><title>SKS Welcome</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/sks-welcome/content/sks-welcome/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/sks-welcome/content/sks-welcome/</guid><description>&lt;h3 id="welcome">&lt;strong>Welcome&lt;/strong>&lt;a class="td-heading-self-link" href="#welcome" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>In this SKS Starter training, we cover how Kubernetes (K8s) works, why we want to use K8s, and, very importantly, we will take a practical approach to K8s to show you the real magic of the technology.&lt;/p>
+&lt;h4 id="welcome-1">&lt;strong>Welcome&lt;/strong>&lt;a class="td-heading-self-link" href="#welcome-1" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;div class="td-card card border me-4">
+&lt;div class="card-body">
+ &lt;h5 class="card-title">
+ Video: Welcome&lt;/h5>
+ &lt;p class="card-text">
+ 
+&lt;video width="100%" height="100%" controls>
+ &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_welcome.mp4?1752608889856" type="video/mp4">
+ Your browser does not support the video tag.
+&lt;/video>
+&lt;/p>
+ &lt;/div>
+ &lt;/div></description></item></channel></rss>
