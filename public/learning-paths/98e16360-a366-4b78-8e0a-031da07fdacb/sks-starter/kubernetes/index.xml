@@ -10,7 +10,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[237 152 80 242 197 128]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/what-it-is.png" onclick="openModal(this.id)" alt="what-it-is" 
+ &lt;img id="[407 324 427 163 154 249]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/what-it-is.png" onclick="openModal(this.id)" alt="what-it-is" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Google open-sourced the Kubernetes project in 2014. Kubernetes combines over 15 years of Google&amp;rsquo;s experience running production workloads at scale with best-of-breed ideas and practices from the community.&lt;/p>
@@ -78,7 +78,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[69 236 451 291 18 193]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/features.png" onclick="openModal(this.id)" alt="features" 
+ &lt;img id="[217 37 408 457 308 287]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/features.png" onclick="openModal(this.id)" alt="features" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -116,7 +116,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[499 209 291 311 489 437]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/positioning.png" onclick="openModal(this.id)" alt="positioning" 
+ &lt;img id="[26 284 239 312 376 103]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/positioning.png" onclick="openModal(this.id)" alt="positioning" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -162,7 +162,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[487 270 486 250 77 225]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/hello-world-container.png" onclick="openModal(this.id)" alt="hello-world-container" 
+ &lt;img id="[175 140 188 8 444 149]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/hello-world-container.png" onclick="openModal(this.id)" alt="hello-world-container" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;ul>
@@ -176,7 +176,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[397 322 97 28 476 272]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/ubuntu-container.png" onclick="openModal(this.id)" alt="ubuntu-container" 
+ &lt;img id="[348 242 75 200 162 370]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/ubuntu-container.png" onclick="openModal(this.id)" alt="ubuntu-container" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Watch these two examples below in the videos.&lt;/p>
@@ -215,7 +215,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[407 475 126 108 481 344]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/basic-concepts.png" onclick="openModal(this.id)" alt="basic-concepts" 
+ &lt;img id="[183 122 387 97 138 223]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/basic-concepts.png" onclick="openModal(this.id)" alt="basic-concepts" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
