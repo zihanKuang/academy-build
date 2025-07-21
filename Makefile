@@ -20,22 +20,28 @@ include .github/build/Makefile-show-help.mk
 # ---------------------------------------------------------------------------
 .PHONY: academy-setup academy-dev academy-staging academy-prod update-module
 
+## Install site dependencies
 academy-setup:
 	 npm i
 
+## Build site using Layer5 Cloud as the baseURL
 academy-prod:
 	 hugo  --cleanDestinationDir --gc --minify --baseURL "https://cloud.layer5.io/academy"
 
+## Build site using Layer5 Cloud Staging as the baseURL
 academy-staging:
 	 hugo --cleanDestinationDir --gc --minify --baseURL "https://staging-cloud.layer5.io/academy"
 
+## Build site for local consumption
 academy-dev:
 	hugo build
 
+## Build and run site locally
 academy-dev-live:
 	hugo serve
 
-
+## Upgrade site's theme to latest version
+## Change to "theme-upgrade"
 update-module:
 	@if [ -z "$(module)" ] || [ -z "$(version)" ]; then \
 		echo "Usage: make update-module module=<module-path> version=<version>"; \
@@ -44,6 +50,7 @@ update-module:
 	echo "Updating Hugo module: $(module) to version $(version)" && \
 	hugo mod get $(module)@$(version)
 
+## Publish Academy build to Layer5 Cloud
 sync-with-cloud:
 	rm -rf ../meshery-cloud/academy
 	mkdir -p ../meshery-cloud/academy
