@@ -2,8 +2,7 @@
 title: Layer5 Academy
 ---
 
-{{< blocks/cover title="Welcome to Layer5 Academy - Empowering Your Cloud Native Journey" image_anchor="top" height="full" >}} Explore Courses Contribute
-
+{{< blocks/cover title="Welcome to Layer5 Academy - Empowering Your Cloud Native Journey" image_anchor="top" height="full" >}}
 Master cloud native technologies through hands-on labs and structured learning paths.
 
 Reference:
@@ -14,9 +13,9 @@ Reference:
 
 {{< blocks/link-down color="info" >}} {{< /blocks/cover >}}
 
-{{% blocks/lead color="primary" %}} Layer5 Academy offers a comprehensive learning platform for cloud native enthusiasts, providing free, interactive courses and hands-on labs. Dive into service mesh, Kubernetes, and cloud native infrastructure management with structured learning paths tailored for beginners and advanced practitioners alike. {{% /blocks/lead %}}
+{{% blocks/lead color="primary" %}} Layer5 Academy offers a comprehensive learning platform for cloud native enthusiasts, providing free, interactive courses and hands-on labs. Dive into Kubernetes, CNCF projects, and cloud native infrastructure management with structured learning paths tailored for beginners and advanced practitioners alike. {{% /blocks/lead %}}
 
-{{% blocks/section color="dark" type="row" %}} {{% blocks/feature icon="fa-lightbulb" title="Interactive Labs" %}} Engage with hands-on labs designed to provide practical experience in managing cloud native infrastructure using tools like Meshery, Kubernetes, and service meshes. {{% /blocks/feature %}}
+{{% blocks/section color="dark" type="row" %}} {{% blocks/feature icon="fa-lightbulb" title="Interactive Labs" %}} Engage with hands-on labs designed to provide practical experience in managing cloud native infrastructure using tools like Meshery, Kubernetes, and many other cloud technologies. {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fab fa-github" title="Contributions Welcome!" url="https://github.com/layer5io/academy-build" %}} Join our open-source community! Contribute to Layer5 Academy by creating new learning paths or enhancing existing ones. Check out our GitHub repository. {{% /blocks/feature %}}
 
@@ -25,8 +24,6 @@ Reference:
 {{% blocks/section %}} Explore Cloud Native Learning Paths {.h1 .text-center} {{% /blocks/section %}}
 
 {{% blocks/section type="row" %}} {{% blocks/feature icon="fas fa-cloud" title="Cloud Native Fundamentals" %}} Start with the basics of cloud native technologies, including Kubernetes, Docker, and service meshes, through beginner-friendly courses. {{% /blocks/feature %}}
-
-{{% blocks/feature icon="fas fa-network-wired" title="Service Mesh Deep Dive" %}} Master service mesh concepts with advanced labs on tools like Istio, Linkerd, and Meshery, designed for real-world application. {{% /blocks/feature %}}
 
 {{% blocks/feature icon="fas fa-users" title="Community-Driven Learning" url="https://layer5.io/community" %}} Join the Layer5 community to collaborate, share knowledge, and contribute to the future of cloud native education. {{% /blocks/feature %}} {{% /blocks/section %}}
 
