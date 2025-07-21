@@ -27,7 +27,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[239 116 269 205 338 204]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/ingress-config.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[426 340 447 162 337 302]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/ingress-config.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The video below shows the flow of the configuration process.&lt;/p>
@@ -59,7 +59,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[335 69 449 284 281 118]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/cluster-structure.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[374 329 367 352 79 178]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/cluster-structure.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -90,7 +90,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[446 427 90 24 391 477]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-theory.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[168 143 368 282 207 407]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-theory.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The manifest concept details and how to compose them are laid out in the video below.&lt;/p></description></item><item><title>Manifest Praxis</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/manifest-praxis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/manifest-praxis/</guid><description>&lt;h3 id="manifest-praxis" class="heading-link">
@@ -106,7 +106,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[173 146 92 479 309 218]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-praxis.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[299 440 351 178 97 343]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-praxis.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The manifest usage details and how to execute them are laid out in the video below.&lt;/p>
@@ -138,7 +138,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[336 67 313 339 444 252]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-tricks.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[387 310 359 485 21 462]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-tricks.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -169,7 +169,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[490 71 66 332 422 303]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/namespace-theory.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[31 175 359 421 231 193]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/namespace-theory.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>How the construct namespace works is shown in the video below.&lt;/p>
@@ -203,7 +203,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[413 185 206 137 174 270]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/namespace-praxis.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[158 25 321 165 259 7]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/namespace-praxis.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>See the application of this construct in praxis in the video below.&lt;/p>
@@ -237,7 +237,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[243 353 92 134 252 266]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/updates-theory.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[145 412 258 96 461 58]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/updates-theory.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The details are explained in the video below.&lt;/p></description></item><item><title>Updates Praxis</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/updates-praxis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/updates-praxis/</guid><description>&lt;h3 id="updates-praxis" class="heading-link">
