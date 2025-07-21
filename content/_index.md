@@ -2,76 +2,32 @@
 title: Layer5 Academy
 ---
 
-{{< blocks/cover title="Welcome to Layer5 Academy: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
-  Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
-{{< blocks/link-down color="info" >}}
-{{< /blocks/cover >}}
+{{< blocks/cover title="Welcome to Layer5 Academy - Empowering Your Cloud Native Journey" image_anchor="top" height="full" >}} Explore Courses Contribute
 
+Master cloud native technologies through hands-on labs and structured learning paths.
 
-{{% blocks/lead color="primary" %}}
-Layer5 Academy provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+Reference:
 
-(Sadly, Layer5 Academy isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
-{{% /blocks/lead %}}
+- https://docs.layer5.io/cloud/academy/
+- https://docs.layer5.io/cloud/academy/extending-the-academy/
+- https://docs.layer5.io/cloud/academy/creating-your-learning-path/
 
+{{< blocks/link-down color="info" >}} {{< /blocks/cover >}}
 
-{{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Layer5 Academy UI now shows chair size metrics by default.
+{{% blocks/lead color="primary" %}} Layer5 Academy offers a comprehensive learning platform for cloud native enthusiasts, providing free, interactive courses and hands-on labs. Dive into service mesh, Kubernetes, and cloud native infrastructure management with structured learning paths tailored for beginners and advanced practitioners alike. {{% /blocks/lead %}}
 
-Please follow this space for updates!
-{{% /blocks/feature %}}
+{{% blocks/section color="dark" type="row" %}} {{% blocks/feature icon="fa-lightbulb" title="Interactive Labs" %}} Engage with hands-on labs designed to provide practical experience in managing cloud native infrastructure using tools like Meshery, Kubernetes, and service meshes. {{% /blocks/feature %}}
 
+{{% blocks/feature icon="fab fa-github" title="Contributions Welcome!" url="https://github.com/layer5io/academy-build" %}} Join our open-source community! Contribute to Layer5 Academy by creating new learning paths or enhancing existing ones. Check out our GitHub repository. {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
+{{% blocks/feature icon="fas fa-book" title="Custom Learning Paths" %}} Create and share your own learning paths or explore community-driven courses to deepen your expertise in cloud native technologies. {{% /blocks/feature %}} {{% /blocks/section %}}
 
+{{% blocks/section %}} Explore Cloud Native Learning Paths {.h1 .text-center} {{% /blocks/section %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
+{{% blocks/section type="row" %}} {{% blocks/feature icon="fas fa-cloud" title="Cloud Native Fundamentals" %}} Start with the basics of cloud native technologies, including Kubernetes, Docker, and service meshes, through beginner-friendly courses. {{% /blocks/feature %}}
 
+{{% blocks/feature icon="fas fa-network-wired" title="Service Mesh Deep Dive" %}} Master service mesh concepts with advanced labs on tools like Istio, Linkerd, and Meshery, designed for real-world application. {{% /blocks/feature %}}
 
-{{% /blocks/section %}}
+{{% blocks/feature icon="fas fa-users" title="Community-Driven Learning" url="https://layer5.io/community" %}} Join the Layer5 community to collaborate, share knowledge, and contribute to the future of cloud native education. {{% /blocks/feature %}} {{% /blocks/section %}}
 
-
-{{% blocks/section %}}
-This is the second section
-{.h1 .text-center}
-{{% /blocks/section %}}
-
-
-{{% blocks/section type="row" %}}
-
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Layer5 Academy app!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
-
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
-{{% /blocks/section %}}
+{{% blocks/section %}} Get Started Today {.h1 .text-center} {{% /blocks/section %}}
