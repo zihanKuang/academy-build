@@ -26,7 +26,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[22 462 129 288 443 472]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud-native.png" onclick="openModal(this.id)" alt="cloud-native" 
+ &lt;img id="[74 187 469 83 381 228]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud-native.png" onclick="openModal(this.id)" alt="cloud-native" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Data</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/databases/content/data/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/databases/content/data/</guid><description>&lt;h3 id="data" class="heading-link">
  &lt;strong>Data&lt;/strong>
@@ -47,7 +47,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[326 359 189 210 318 34]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-history.png" onclick="openModal(this.id)" alt="exo-history" 
+ &lt;img id="[118 417 229 211 379 101]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-history.png" onclick="openModal(this.id)" alt="exo-history" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -64,7 +64,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[99 281 296 147 47 332]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-web.png" onclick="openModal(this.id)" alt="exo-web" 
+ &lt;img id="[229 27 38 91 29 441]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-web.png" onclick="openModal(this.id)" alt="exo-web" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -85,7 +85,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[405 482 295 177 414 104]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas.png" onclick="openModal(this.id)" alt="dbaas" 
+ &lt;img id="[197 298 93 357 485 211]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas.png" onclick="openModal(this.id)" alt="dbaas" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>If you want to know more about the actual service offers, please go to &lt;a href="https://www.exoscale.com/dbaas/">Exoscale DBaaS&lt;/a> on our website.&lt;/p>
@@ -195,7 +195,7 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 
 &lt;div class="md__image">
- &lt;img id="[71 245 236 297 462 133]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes3.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[458 119 1 317 217 441]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes3.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;strong>Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services that facilitates both automation and declarative configuration.&lt;/strong>&lt;/p></description></item><item><title>Kubernetes Concepts</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/kubernetes-concepts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/kubernetes-concepts/</guid><description>&lt;h3 id="kubernetes-concepts" class="heading-link">
@@ -238,7 +238,7 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 
 &lt;div class="md__image">
- &lt;img id="[116 212 316 442 65 218]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/manages-kubernetes.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[343 26 51 368 187 239]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/manages-kubernetes.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>A simple who is responsible for what and pain versus gain comparison from available solutions should paint a clear picture of the golden mean, which is managed Kubernetes for most newcomers to the topic at hand.&lt;/p></description></item><item><title>Meshery Concepts</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-meshery/introduction-to-meshery/meshery-concepts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-meshery/introduction-to-meshery/meshery-concepts/</guid><description>&lt;div class="chapter-content">
@@ -266,7 +266,7 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 
 &lt;div class="md__image">
- &lt;img id="[17 236 473 110 431 46]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/iaas-arch.png" onclick="openModal(this.id)" alt="iaas-arch" 
+ &lt;img id="[333 426 246 151 117 122]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/iaas-arch.png" onclick="openModal(this.id)" alt="iaas-arch" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -283,7 +283,7 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 
 &lt;div class="md__image">
- &lt;img id="[314 135 348 386 476 328]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/iaas-over.png" onclick="openModal(this.id)" alt="iaas-over" 
+ &lt;img id="[29 56 390 113 97 35]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/iaas-over.png" onclick="openModal(this.id)" alt="iaas-over" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The following questions arise if you think about the breadth of the cloud offerings in the market today:&lt;/p></description></item><item><title>Responsibility and Expertise</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/managed-databases/content/responsibility/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/managed-databases/content/responsibility/</guid><description>&lt;h3 id="responsibility-and-expertise" class="heading-link">
@@ -299,7 +299,7 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 
 &lt;div class="md__image">
- &lt;img id="[33 256 337 406 268 249]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/datacenter.png" onclick="openModal(this.id)" alt="datacenter" 
+ &lt;img id="[36 314 331 127 301 465]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/datacenter.png" onclick="openModal(this.id)" alt="datacenter" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>It is like with utilities. Do you run a wind farm or a hydroelectric power plant to produce your needed electricity? Or do you rely on a managed service from a utility provider? Information Technology (IT) services have become a utility for many areas anyway. So, specialists are defining and often dominating the market. Use those specialists to become a better specialist in your field of expertise.&lt;/p></description></item><item><title>Scalable Kubernetes Service</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/exoscale-sks/content/scalable-kubernetes-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/exoscale-sks/content/scalable-kubernetes-services/</guid><description>&lt;div class="chapter-content">
@@ -324,7 +324,7 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 
 &lt;div class="md__image">
- &lt;img id="[238 126 397 484 144 150]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/exoscale.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[70 422 173 37 2 461]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/exoscale.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -405,7 +405,7 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 
 &lt;div class="md__image">
- &lt;img id="[57 480 258 497 118 209]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/what-it-is.png" onclick="openModal(this.id)" alt="what-it-is" 
+ &lt;img id="[10 270 274 365 90 86]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/what-it-is.png" onclick="openModal(this.id)" alt="what-it-is" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Google open-sourced the Kubernetes project in 2014. Kubernetes combines over 15 years of Google&amp;rsquo;s experience running production workloads at scale with best-of-breed ideas and practices from the community.&lt;/p>
@@ -441,7 +441,7 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 
 &lt;div class="md__image">
- &lt;img id="[277 490 96 254 426 415]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/containers2.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[363 74 306 476 47 142]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/containers2.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -465,7 +465,7 @@ Kubernetes is a portable, extensible, open-source platform for managing containe
 
 
 &lt;div class="md__image">
- &lt;img id="[20 449 65 157 201 480]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[401 480 380 227 353 400]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Calculate Product Pricing</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/pricing/pricing/content/calculate-product-pricing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/pricing/pricing/content/calculate-product-pricing/</guid><description>&lt;h3 id="calculate-product-pricing" class="heading-link">
  &lt;strong>Calculate Product Pricing&lt;/strong>
@@ -526,7 +526,7 @@ the book, book details (ISBN, number of pages, and so on), and a few book review
 
 
 &lt;div class="md__image">
- &lt;img id="[202 86 172 248 485 47]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/devops.png" onclick="openModal(this.id)" alt="devops" 
+ &lt;img id="[59 422 300 25 393 9]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/devops.png" onclick="openModal(this.id)" alt="devops" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>DevOps is a software development methodology emphasizing collaboration and communication between development and operations teams to streamline the software development lifecycle. It involves automating and integrating processes across the entire software delivery pipeline, from development and testing to deployment and monitoring. DevOps aims to deliver software faster, with higher quality and reliability, by breaking down silos between teams and fostering a culture of continuous improvement and feedback.&lt;/p></description></item><item><title>Edge Stack Configuration</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/edge-stack-configuration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/ambassador-edge-stack-api-gateway-with-meshery/edge/edge-stack-configuration/</guid><description>&lt;div class="chapter-content">
@@ -550,7 +550,7 @@ the book, book details (ISBN, number of pages, and so on), and a few book review
 
 
 &lt;div class="md__image">
- &lt;img id="[322 342 208 464 166 318]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas-features.png" onclick="openModal(this.id)" alt="dbaas-features" 
+ &lt;img id="[317 344 102 83 410 170]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas-features.png" onclick="openModal(this.id)" alt="dbaas-features" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -619,7 +619,7 @@ the book, book details (ISBN, number of pages, and so on), and a few book review
 
 
 &lt;div class="md__image">
- &lt;img id="[288 39 79 362 155 324]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes2.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[300 256 166 217 391 407]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes2.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;strong>Containerization&lt;/strong> is this trend that’s &lt;strong>taking over the world&lt;/strong> to allow people to run all kinds of different applications in a variety of different environments. When they do that, they &lt;strong>need an orchestration solution&lt;/strong> in order to keep track of all of those containers and schedule them and orchestrate them. &lt;strong>Kubernetes is an increasingly popular way to do that.&lt;/strong>&lt;/p></description></item><item><title>Learn</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/configuration/content/learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/configuration/content/learn/</guid><description>&lt;h2 id="configuration-resources" class="heading-link">
@@ -644,7 +644,7 @@ the book, book details (ISBN, number of pages, and so on), and a few book review
 
 
 &lt;div class="md__image">
- &lt;img id="[324 333 404 377 145 499]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/pod.png" onclick="openModal(this.id)" alt="pod" 
+ &lt;img id="[449 340 111 334 362 331]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/pod.png" onclick="openModal(this.id)" alt="pod" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -693,7 +693,7 @@ The Helm Client is a binary used to manipulate application packaged with Helm.&l
 
 
 &lt;div class="md__image">
- &lt;img id="[32 54 293 465 124 110]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/overview.png" onclick="openModal(this.id)" alt="overview" 
+ &lt;img id="[202 479 167 396 410 420]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/overview.png" onclick="openModal(this.id)" alt="overview" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The complete documentation can be found at &lt;a href="https://helm.sh">https://helm.sh&lt;/a>&lt;/p></description></item><item><title>Learn</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/ingress/content/learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/ingress/content/learn/</guid><description>&lt;h2 id="what-is-an-ingress-" class="heading-link">
@@ -806,7 +806,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[404 6 186 31 20 159]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/ecosystem.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[500 57 93 121 40 317]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/ecosystem.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>New Ideas &amp; Concepts</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/containers/content/new-ideas-and-concepts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/containers/content/new-ideas-and-concepts/</guid><description>&lt;div class="chapter-content">
  &lt;h2 class="chapter-sub-heading">New Ideas &amp; Concepts&lt;/h2>
@@ -834,7 +834,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[272 185 5 128 171 416]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/pricing.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[36 42 213 427 63 257]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/pricing.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>PODs</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/pods/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/pods/</guid><description>&lt;div class="chapter-content">
  &lt;h2 class="chapter-sub-heading">PODs&lt;/h2>
@@ -856,7 +856,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[158 110 145 216 136 378]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/pod.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[343 280 414 429 389 250]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/pod.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Pods are the smallest deployable units of computing that you can create and manage in Kubernetes. Pods in a Kubernetes cluster are used in two main ways:&lt;/p></description></item><item><title>Practice</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/practice/</guid><description>&lt;h2 id="use-deployments-in-the-votingapp" class="heading-link">
@@ -1037,7 +1037,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[55 75 269 31 20 56]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/vote.png" onclick="openModal(this.id)" alt="vote" 
+ &lt;img id="[238 496 388 266 230 415]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/vote.png" onclick="openModal(this.id)" alt="vote" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Practice</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/practice/</guid><description>&lt;h2 id="package-and-distribute-the-votingapp-with-helm" class="heading-link">
  Package and distribute the VotingApp with Helm
@@ -1144,7 +1144,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[305 493 352 368 468 13]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-history.png" onclick="openModal(this.id)" alt="exo-history" 
+ &lt;img id="[344 192 63 320 128 87]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-history.png" onclick="openModal(this.id)" alt="exo-history" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -1165,7 +1165,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[144 434 265 491 419 355]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/performance2.png" onclick="openModal(this.id)" alt="performance2" 
+ &lt;img id="[474 385 149 246 181 225]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/performance2.png" onclick="openModal(this.id)" alt="performance2" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -1181,7 +1181,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[155 131 358 58 27 402]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/zones.png" onclick="openModal(this.id)" alt="zones" 
+ &lt;img id="[174 86 232 169 161 389]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/zones.png" onclick="openModal(this.id)" alt="zones" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -1197,7 +1197,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[343 457 175 145 254 449]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/price-compare.png" onclick="openModal(this.id)" alt="price-compare" 
+ &lt;img id="[287 56 154 460 138 243]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/price-compare.png" onclick="openModal(this.id)" alt="price-compare" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -1213,7 +1213,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[338 482 22 295 66 444]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/trans_pricing.png" onclick="openModal(this.id)" alt="trans_pricing" 
+ &lt;img id="[8 332 45 375 305 227]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/trans_pricing.png" onclick="openModal(this.id)" alt="trans_pricing" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Volume of Data</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/databases/content/volume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/databases/content/volume/</guid><description>&lt;h3 id="volume-of-data" class="heading-link">
  &lt;strong>Volume of Data&lt;/strong>
@@ -1228,7 +1228,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[15 35 157 387 39 107]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/volume-of-data.png" onclick="openModal(this.id)" alt="volume-of-data" 
+ &lt;img id="[203 278 488 117 144 461]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/volume-of-data.png" onclick="openModal(this.id)" alt="volume-of-data" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>You can quickly see that the amount of data we produce every year doubled, tripled, or even quadrupled in the last years. Depending on how many years you look back, the internet, the smartphone, social media, digital photography, digital music, digital films, and the Internet of Things, to name a few of the contributors to this enormous peak in the growth of data.&lt;/p></description></item><item><title>Volumes</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/storage/content/volumes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/storage/content/volumes/</guid><description>&lt;h3 id="volumes" class="heading-link">
@@ -1298,7 +1298,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[43 187 150 3 370 359]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit1-storage-color.jpg" onclick="openModal(this.id)" alt="storage" 
+ &lt;img id="[227 44 456 375 119 311]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit1-storage-color.jpg" onclick="openModal(this.id)" alt="storage" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -1328,7 +1328,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[442 62 381 298 41 134]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/GDPRvsCLOUDact.png" onclick="openModal(this.id)" alt="GDPRvsCLOUDact" 
+ &lt;img id="[330 384 130 453 29 123]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/GDPRvsCLOUDact.png" onclick="openModal(this.id)" alt="GDPRvsCLOUDact" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;strong>GDPR&lt;/strong>: protect personal data, valid for all companies operating in the EU, fines at non-compliance&lt;/p>
@@ -1346,7 +1346,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[87 242 195 102 453 111]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale-compliance.png" onclick="openModal(this.id)" alt="exoscale-compliance" 
+ &lt;img id="[336 215 240 253 97 34]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale-compliance.png" onclick="openModal(this.id)" alt="exoscale-compliance" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Configure Components</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/configure-components/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/configure-components/</guid><description>&lt;div class="chapter-content">
  &lt;h2 class="chapter-sub-heading">Create and Configure Secret for MySQL Database&lt;/h2>
@@ -1404,7 +1404,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[72 496 406 49 490 282]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/benefit1.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[64 398 339 428 68 211]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/benefit1.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;ul>
@@ -1418,7 +1418,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[450 467 488 34 489 289]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/benefit2.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[285 24 240 87 247 235]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/benefit2.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;ul>
@@ -1435,7 +1435,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[249 107 222 388 252 235]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cont-delivery.png" onclick="openModal(this.id)" alt="cont-delivery" 
+ &lt;img id="[319 293 231 18 472 178]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cont-delivery.png" onclick="openModal(this.id)" alt="cont-delivery" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Continuous Delivery is a software development practice where code changes are automatically built, tested, and deployed to production safely and reliably, with minimal human intervention.&lt;/p>
@@ -1491,7 +1491,7 @@ A PersistentVolumeClaim is a request for storage, it decouples an application fr
 
 
 &lt;div class="md__image">
- &lt;img id="[440 291 66 234 10 98]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/circles.png" onclick="openModal(this.id)" alt="circles" 
+ &lt;img id="[132 122 234 137 403 265]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/circles.png" onclick="openModal(this.id)" alt="circles" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -1563,7 +1563,7 @@ you provide Kubernetes with a cluster of nodes that it can use to run containeri
 
 
 &lt;div class="md__image">
- &lt;img id="[120 376 333 65 13 308]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/features.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[339 325 209 399 175 251]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/features.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -1606,7 +1606,7 @@ you provide Kubernetes with a cluster of nodes that it can use to run containeri
 
 
 &lt;div class="md__image">
- &lt;img id="[250 101 134 17 257 14]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/ingress-config.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[223 24 193 411 291 65]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/ingress-config.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The video below shows the flow of the configuration process.&lt;/p>
@@ -1656,7 +1656,7 @@ you provide Kubernetes with a cluster of nodes that it can use to run containeri
 
 
 &lt;div class="md__image">
- &lt;img id="[176 95 235 152 36 115]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes4.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[305 176 413 263 407 137]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes4.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -1692,7 +1692,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[444 322 103 166 427 74]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/aiven-exoscale.png" onclick="openModal(this.id)" alt="aiven-exoscale" 
+ &lt;img id="[448 336 34 268 489 83]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/aiven-exoscale.png" onclick="openModal(this.id)" alt="aiven-exoscale" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>REPLICASETs</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/replicasets/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/intro-kubernetes-course/kubernetes-building-blocks/content/replicasets/</guid><description>&lt;div class="chapter-content">
  &lt;h2 class="chapter-sub-heading">REPLICASETs&lt;/h2>
@@ -1715,7 +1715,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[489 254 374 252 154 229]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/replicaset.gif" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[378 385 177 307 398 106]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/replicaset.gif" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Running Applications</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/running-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/running-application/</guid><description>&lt;h3 id="what-do-i-need" class="heading-link">
  &lt;strong>What do I need &amp;hellip;&lt;/strong>
@@ -1771,7 +1771,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[280 295 40 82 373 216]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit2-criteria.png" onclick="openModal(this.id)" alt="storage" 
+ &lt;img id="[458 348 466 29 330 138]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit2-criteria.png" onclick="openModal(this.id)" alt="storage" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;table>
@@ -1895,7 +1895,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[18 214 279 340 33 103]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/value-of-data-1.png" onclick="openModal(this.id)" alt="value-of-data-1" 
+ &lt;img id="[349 117 451 406 482 55]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/value-of-data-1.png" onclick="openModal(this.id)" alt="value-of-data-1" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>We looked at the importance of data and want to briefly cover the last introduction aspect relevant to our database and database as a service journey. If you break down the diagram above, you see two significant aspects of data interactions. Production of data and usage of data, those two categories are further divided into collection and publication on the left-hand side and uptake and impact on the right-hand side.&lt;/p></description></item><item><title>Benefits</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/benefits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/benefits/</guid><description>&lt;h3 id="cloud-automation" class="heading-link">
@@ -1913,7 +1913,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[84 286 378 417 56 104]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud-auto.png" onclick="openModal(this.id)" alt="cloud-auto" 
+ &lt;img id="[92 439 118 204 69 147]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud-auto.png" onclick="openModal(this.id)" alt="cloud-auto" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Cluster Structure</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/cluster-structure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/cluster-structure/</guid><description>&lt;h3 id="cluster-structure" class="heading-link">
  &lt;strong>Cluster Structure&lt;/strong>
@@ -1928,7 +1928,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[396 348 412 186 324 21]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/cluster-structure.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[326 393 203 448 47 285]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/cluster-structure.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -1966,7 +1966,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[182 38 390 448 451 277]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/container.png" onclick="openModal(this.id)" alt="container" 
+ &lt;img id="[227 180 172 359 305 455]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/container.png" onclick="openModal(this.id)" alt="container" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Containers are lightweight, portable, and self-contained software packages that include all the necessary components to run an application, such as code, libraries, and dependencies.&lt;/p>
@@ -2035,7 +2035,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[344 58 111 329 479 132]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/deployment.gif" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[202 442 207 464 326 493]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/deployment.gif" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Features</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/features/</guid><description>&lt;h3 id="features" class="heading-link">
  &lt;strong>Features&lt;/strong>
@@ -2049,7 +2049,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[116 48 289 333 83 7]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/features.png" onclick="openModal(this.id)" alt="features" 
+ &lt;img id="[314 308 172 445 276 434]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/features.png" onclick="openModal(this.id)" alt="features" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -2100,7 +2100,7 @@ Object vs Block: Cost&lt;/p>
 
 
 &lt;div class="md__image">
- &lt;img id="[64 468 74 444 400 217]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/history.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[123 85 177 6 369 462]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/history.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -2309,7 +2309,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[56 378 123 232 287 446]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/pricing/calculator.png" onclick="openModal(this.id)" alt="calculator" 
+ &lt;img id="[254 438 177 389 285 158]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/pricing/calculator.png" onclick="openModal(this.id)" alt="calculator" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Scenarios</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/scenarios/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/scenarios/</guid><description>&lt;h3 id="generic-iaas-use-cases" class="heading-link">
  &lt;strong>Generic IaaS Use Cases&lt;/strong>
@@ -2323,7 +2323,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[419 182 311 359 228 111]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/generic.png" onclick="openModal(this.id)" alt="cloud-computing" 
+ &lt;img id="[152 445 226 158 476 61]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/generic.png" onclick="openModal(this.id)" alt="cloud-computing" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -2350,7 +2350,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[442 363 283 462 237 221]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/db-word-cloud.png" onclick="openModal(this.id)" alt="db-cloud" 
+ &lt;img id="[181 80 72 415 258 97]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/db-word-cloud.png" onclick="openModal(this.id)" alt="db-cloud" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;em>Database Word Cloud&lt;/em>&lt;/p>
@@ -2383,7 +2383,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[252 455 220 218 95 300]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale-community.png" onclick="openModal(this.id)" alt="exoscale-community" 
+ &lt;img id="[179 60 492 122 173 391]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale-community.png" onclick="openModal(this.id)" alt="exoscale-community" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Containers</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/containers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/containers/</guid><description>&lt;h3 id="containers" class="heading-link">
  &lt;strong>Containers&lt;/strong>
@@ -2397,7 +2397,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[54 382 6 223 367 243]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/container.png" onclick="openModal(this.id)" alt="container" 
+ &lt;img id="[388 332 235 153 38 238]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/container.png" onclick="openModal(this.id)" alt="container" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -2430,7 +2430,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[278 154 200 309 185 428]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/deamonset.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[214 364 281 30 497 402]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/deamonset.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Deploy Python and NodeJS application</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/explore-dapr-with-meshery/dapr/deploy-python-and-nodejs-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/explore-dapr-with-meshery/dapr/deploy-python-and-nodejs-application/</guid><description>&lt;div class="chapter-content">
  &lt;h3 class="chapter-sub-heading">Deploy Node.js Application&lt;/h3>
@@ -2510,7 +2510,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[137 466 422 180 316 170]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/history-part-1.png" onclick="openModal(this.id)" alt="history-part-1" 
+ &lt;img id="[334 181 376 291 307 451]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/history-part-1.png" onclick="openModal(this.id)" alt="history-part-1" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;strong>Part 2&lt;/strong> of the History of Database Evolution is about the influence of new technologies and the emergence of new players with new clever ideas (new database models). Today is all about combining, improving, optimizing, and automizing all available database models and their respective implementations (closed source and open source). The future is focused on driving business innovations with specialized database models specifically built/developed for business requirements.&lt;/p></description></item><item><title>Interpreting Meshery Designs</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-meshery/introduction-to-meshery/interpreting-meshery-designs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-meshery/introduction-to-meshery/interpreting-meshery-designs/</guid><description>&lt;div class="chapter-content">
@@ -2531,7 +2531,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[241 386 218 142 452 444]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[164 125 66 24 144 423]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Longhorn is a technology that enables local, non-persistent storage provided by the worker nodes as highly available storage for stateful applications with the need for persistent storage, e.g., a database.&lt;/p>
@@ -2543,7 +2543,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[78 170 480 8 244 68]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn2.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[6 228 149 81 223 131]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn2.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -2574,7 +2574,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[120 320 307 290 136 417]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-theory.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[173 402 379 138 445 215]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-theory.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The manifest concept details and how to compose them are laid out in the video below.&lt;/p></description></item><item><title>Microservices</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud-native/content/microservices/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud-native/content/microservices/</guid><description>&lt;h3 id="explained" class="heading-link">
@@ -2589,7 +2589,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[124 167 263 275 140 48]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/microservices.png" onclick="openModal(this.id)" alt="microservices" 
+ &lt;img id="[136 70 394 16 131 345]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/microservices.png" onclick="openModal(this.id)" alt="microservices" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Microservice architecture is a software development approach that structures an application as a collection of small, independent, and loosely coupled services.&lt;/p>
@@ -2612,7 +2612,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[465 457 344 374 353 417]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/positioning.png" onclick="openModal(this.id)" alt="positioning" 
+ &lt;img id="[263 165 443 175 37 159]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/positioning.png" onclick="openModal(this.id)" alt="positioning" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -2661,7 +2661,7 @@ Kubernetes aims to support a highly diverse workload, including stateless, state
 
 
 &lt;div class="md__image">
- &lt;img id="[411 148 34 464 94 263]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/db-icon-1.png" onclick="openModal(this.id)" alt="db-icon-1" 
+ &lt;img id="[378 330 304 377 489 433]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/db-icon-1.png" onclick="openModal(this.id)" alt="db-icon-1" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -2756,7 +2756,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[167 93 253 135 149 252]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/ingress2.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[275 479 3 118 489 258]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/ingress2.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Integrations</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/integrations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/integrations/</guid><description>&lt;h3 id="available-for-exoscale" class="heading-link">
  &lt;strong>Available for Exoscale&lt;/strong>
@@ -2771,7 +2771,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[210 347 238 61 465 272]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/integration.png" onclick="openModal(this.id)" alt="integration" 
+ &lt;img id="[266 82 441 348 49 362]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/integration.png" onclick="openModal(this.id)" alt="integration" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -2793,7 +2793,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[438 401 483 210 218 331]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn-praxis.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[343 175 415 316 233 139]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn-praxis.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -2824,7 +2824,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[397 89 355 389 458 163]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-praxis.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[8 205 390 91 349 210]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-praxis.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The manifest usage details and how to execute them are laid out in the video below.&lt;/p>
@@ -3073,7 +3073,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[290 368 384 218 459 238]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-build.png" onclick="openModal(this.id)" alt="docker-build" 
+ &lt;img id="[109 307 349 46 84 123]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-build.png" onclick="openModal(this.id)" alt="docker-build" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>docker run
@@ -3086,7 +3086,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[123 451 131 311 251 169]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-run.png" onclick="openModal(this.id)" alt="docker-run" 
+ &lt;img id="[113 325 473 82 184 407]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-run.png" onclick="openModal(this.id)" alt="docker-run" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -3129,7 +3129,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[124 420 449 79 355 484]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/cronjob.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[291 417 484 100 222 9]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/cronjob.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Manifest Tricks</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/manifest-tricks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/manifest-tricks/</guid><description>&lt;h3 id="manifest-tricks" class="heading-link">
  &lt;strong>Manifest Tricks&lt;/strong>
@@ -3144,7 +3144,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[256 434 405 89 412 40]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-tricks.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[432 226 48 217 256 372]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/manifest-tricks.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -3185,7 +3185,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[90 343 9 269 388 292]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/web.png" onclick="openModal(this.id)" alt="web" 
+ &lt;img id="[421 361 481 458 35 493]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/web.png" onclick="openModal(this.id)" alt="web" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -3202,7 +3202,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[440 132 211 183 262 318]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/portal.png" onclick="openModal(this.id)" alt="portal" 
+ &lt;img id="[337 161 95 360 456 58]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/portal.png" onclick="openModal(this.id)" alt="portal" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Mutual TLS &amp; Identity Verification</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/introduction-to-service-meshes/mutual-tls/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/introduction-to-service-meshes/mutual-tls/</guid><description>&lt;div class="chapter-content">
  &lt;p>Istio provides transparent mutual TLS to services inside the service mesh where both the client and the server authenticate each others&amp;rsquo; certificates as part of the TLS handshake. As part of this course, we have deployed Istio with mTLS.&lt;/p>
@@ -3224,7 +3224,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[264 38 225 395 407 487]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/ref-cern.png" onclick="openModal(this.id)" alt="ref-cern" 
+ &lt;img id="[498 192 140 337 8 80]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/ref-cern.png" onclick="openModal(this.id)" alt="ref-cern" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;ul>
@@ -3247,7 +3247,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[303 269 278 442 144 317]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/ref-whalebone.png" onclick="openModal(this.id)" alt="ref-whalebone" 
+ &lt;img id="[166 189 51 179 110 214]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/ref-whalebone.png" onclick="openModal(this.id)" alt="ref-whalebone" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Selection of Databases</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/databases/content/selections/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/databases/content/selections/</guid><description>&lt;h3 id="selection-of-databases" class="heading-link">
  &lt;strong>Selection of Databases&lt;/strong>
@@ -3262,7 +3262,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[180 259 382 497 74 13]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/selection.png" onclick="openModal(this.id)" alt="selection" 
+ &lt;img id="[376 377 183 192 91 265]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/selection.png" onclick="openModal(this.id)" alt="selection" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The CAP theorem gives guidance and is still relevant when designing distributed applications and choosing a data store for such scenarios. Still, you have to decide if availability is the preference or consistency gets the vote.&lt;/p></description></item><item><title>Simple Examples</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/simple-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/simple-examples/</guid><description>&lt;h3 id="simple-examples" class="heading-link">
@@ -3281,7 +3281,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[15 326 370 382 474 311]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/hello-world-container.png" onclick="openModal(this.id)" alt="hello-world-container" 
+ &lt;img id="[156 340 161 245 437 205]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/hello-world-container.png" onclick="openModal(this.id)" alt="hello-world-container" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;ul>
@@ -3295,7 +3295,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[434 438 89 359 353 158]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/ubuntu-container.png" onclick="openModal(this.id)" alt="ubuntu-container" 
+ &lt;img id="[410 479 245 13 212 432]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/ubuntu-container.png" onclick="openModal(this.id)" alt="ubuntu-container" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Watch these two examples below in the videos.&lt;/p>
@@ -3354,7 +3354,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[229 262 115 429 137 305]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/basic-concepts.png" onclick="openModal(this.id)" alt="basic-concepts" 
+ &lt;img id="[203 50 496 343 46 86]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/basic-concepts.png" onclick="openModal(this.id)" alt="basic-concepts" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -3406,7 +3406,7 @@ Exoscale IAM, or Identity and Access Management, is a system that manages access
 
 
 &lt;div class="md__image">
- &lt;img id="[50 475 122 135 344 79]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/namespace-theory.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[250 213 490 85 225 356]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/namespace-theory.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>How the construct namespace works is shown in the video below.&lt;/p>
@@ -3482,7 +3482,7 @@ The organization display name is used for invoices. It must be between 4 and 225
 
 
 &lt;div class="md__image">
- &lt;img id="[302 61 100 15 3 216]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/namespace-praxis.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[46 217 160 156 68 338]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/namespace-praxis.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>See the application of this construct in praxis in the video below.&lt;/p>
@@ -3526,7 +3526,7 @@ The organization display name is used for invoices. It must be between 4 and 225
 
 
 &lt;div class="md__image">
- &lt;img id="[8 335 306 363 156 483]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/updates-theory.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[337 323 108 249 27 486]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/updates-theory.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>The details are explained in the video below.&lt;/p></description></item><item><title>Updates Praxis</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/updates-praxis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/concepts/content/updates-praxis/</guid><description>&lt;h3 id="updates-praxis" class="heading-link">
