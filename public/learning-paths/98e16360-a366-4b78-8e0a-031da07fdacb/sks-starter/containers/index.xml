@@ -1,19 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Containers on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/</link><description>Recent content in Containers on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/index.xml" rel="self" type="application/rss+xml"/><item><title>Application Deployments</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/application-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/application-deployment/</guid><description>&lt;h3 id="application-deployment">&lt;strong>Application Deployment&lt;/strong>&lt;a class="td-heading-self-link" href="#application-deployment" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;h4 id="traditional-deployment">&lt;strong>Traditional Deployment&lt;/strong>&lt;a class="td-heading-self-link" href="#traditional-deployment" aria-label="Heading self-link">&lt;/a>&lt;/h4>
-&lt;p>Early on, organizations ran applications on physical servers. There was no way to define resource boundaries for applications in a physical server, and this caused resource allocation issues. For example, if multiple applications run on a physical server, there can be instances where one application would take up most of the resources, and as a result, the other applications would underperform. A solution for this would be to run each application on a different physical server. But this did not scale as resources were underutilized, and it was expensive for organizations to maintain many physical servers.&lt;/p></description></item><item><title>Sample Application</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/sample-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/sample-application/</guid><description>&lt;h3 id="sample-application-using-nodejs">&lt;strong>Sample Application using Node.js&lt;/strong>&lt;a class="td-heading-self-link" href="#sample-application-using-nodejs" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>This sample app demonstration shows how traditional software deployment looks. A little JavaScript spins up a web server and runs the sample app on the server. It demonstrates how easy it is to run web-based applications, but still, you need to install and run Node.js beforehand. In addition, you have to use the proper versions of the software components in place and take care of all dependencies (runtime environments, libraries, &amp;hellip;). Otherwise, the app will not run or will not run properly.&lt;/p></description></item><item><title>Running Applications</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/running-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/running-application/</guid><description>&lt;h3 id="what-do-i-need">&lt;strong>What do I need &amp;hellip;&lt;/strong>&lt;a class="td-heading-self-link" href="#what-do-i-need" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Containers on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/</link><description>Recent content in Containers on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/index.xml" rel="self" type="application/rss+xml"/><item><title>Application Deployments</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/application-deployment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/application-deployment/</guid><description>&lt;h3 id="application-deployment" class="heading-link">
+ &lt;strong>Application Deployment&lt;/strong>
+ &lt;a href="#application-deployment" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+
+&lt;h4 id="traditional-deployment" class="heading-link">
+ &lt;strong>Traditional Deployment&lt;/strong>
+ &lt;a href="#traditional-deployment" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
+&lt;p>Early on, organizations ran applications on physical servers. There was no way to define resource boundaries for applications in a physical server, and this caused resource allocation issues. For example, if multiple applications run on a physical server, there can be instances where one application would take up most of the resources, and as a result, the other applications would underperform. A solution for this would be to run each application on a different physical server. But this did not scale as resources were underutilized, and it was expensive for organizations to maintain many physical servers.&lt;/p></description></item><item><title>Sample Application</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/sample-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/sample-application/</guid><description>&lt;h3 id="sample-application-using-nodejs" class="heading-link">
+ &lt;strong>Sample Application using Node.js&lt;/strong>
+ &lt;a href="#sample-application-using-nodejs" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>This sample app demonstration shows how traditional software deployment looks. A little JavaScript spins up a web server and runs the sample app on the server. It demonstrates how easy it is to run web-based applications, but still, you need to install and run Node.js beforehand. In addition, you have to use the proper versions of the software components in place and take care of all dependencies (runtime environments, libraries, &amp;hellip;). Otherwise, the app will not run or will not run properly.&lt;/p></description></item><item><title>Running Applications</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/running-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/running-application/</guid><description>&lt;h3 id="what-do-i-need" class="heading-link">
+ &lt;strong>What do I need &amp;hellip;&lt;/strong>
+ &lt;a href="#what-do-i-need" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Considering the next steps based on the Node.js sample app from before.&lt;/p>
-&lt;h3 id="what-do-i-need-to-run-apps-in-container">&lt;strong>What do I need to run apps in container?&lt;/strong>&lt;a class="td-heading-self-link" href="#what-do-i-need-to-run-apps-in-container" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+
+&lt;h3 id="what-do-i-need-to-run-apps-in-container" class="heading-link">
+ &lt;strong>What do I need to run apps in container?&lt;/strong>
+ &lt;a href="#what-do-i-need-to-run-apps-in-container" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;ul>
 &lt;li>Node.js – in the correct Version&lt;/li>
 &lt;li>All dependencies of the App (e.g. via Package Manager NPM)&lt;/li>
 &lt;/ul>
-&lt;h3 id="possibly--when-the-application-gets-bigger">&lt;strong>Possibly … when the Application gets bigger &amp;hellip;&lt;/strong>&lt;a class="td-heading-self-link" href="#possibly--when-the-application-gets-bigger" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+
+&lt;h3 id="possibly--when-the-application-gets-bigger" class="heading-link">
+ &lt;strong>Possibly … when the Application gets bigger &amp;hellip;&lt;/strong>
+ &lt;a href="#possibly--when-the-application-gets-bigger" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;ul>
 &lt;li>Database (and its requirements …)&lt;/li>
 &lt;li>Private Network&lt;/li>
 &lt;/ul>
-&lt;h4 id="running-apps">&lt;strong>Running Apps&lt;/strong>&lt;a class="td-heading-self-link" href="#running-apps" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+
+&lt;h4 id="running-apps" class="heading-link">
+ &lt;strong>Running Apps&lt;/strong>
+ &lt;a href="#running-apps" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="td-card card border me-4">
 &lt;div class="card-body">
  &lt;h5 class="card-title">
@@ -24,7 +49,10 @@
  &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid2.mp4?1752341367873" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video>
-&lt;/p></description></item><item><title>Dealing with Dependencies</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dependencies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dependencies/</guid><description>&lt;h3 id="installing-dependencies">&lt;strong>Installing Dependencies &amp;hellip;&lt;/strong>&lt;a class="td-heading-self-link" href="#installing-dependencies" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;/p></description></item><item><title>Dealing with Dependencies</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dependencies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dependencies/</guid><description>&lt;h3 id="installing-dependencies" class="heading-link">
+ &lt;strong>Installing Dependencies &amp;hellip;&lt;/strong>
+ &lt;a href="#installing-dependencies" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>&amp;hellip; on Ubuntu&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic"># Install repository&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$ curl -fsSL https://deb.nodesource.com/setup_current.x &lt;span style="color:#000;font-weight:bold">|&lt;/span> sudo -E bash –sudo apt-get update
@@ -32,12 +60,20 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$ sudo apt-get install -y nodejs
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic"># Install Dependencies of the app&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$ npm install
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="running">&lt;strong>Running &amp;hellip;&lt;/strong>&lt;a class="td-heading-self-link" href="#running" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h3 id="running" class="heading-link">
+ &lt;strong>Running &amp;hellip;&lt;/strong>
+ &lt;a href="#running" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>&amp;hellip; the application&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic"># Download or Upload app.js to the server somehow…&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#8f5902;font-style:italic"># Run&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>$ node app.js
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="dependencies">&lt;strong>Dependencies&lt;/strong>&lt;a class="td-heading-self-link" href="#dependencies" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h4 id="dependencies" class="heading-link">
+ &lt;strong>Dependencies&lt;/strong>
+ &lt;a href="#dependencies" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="td-card card border me-4">
 &lt;div class="card-body">
  &lt;h5 class="card-title">
@@ -48,9 +84,26 @@
  &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid3.mp4?1752341753956" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video>
-&lt;/p></description></item><item><title>Containers</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/containers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/containers/</guid><description>&lt;h3 id="containers">&lt;strong>Containers&lt;/strong>&lt;a class="td-heading-self-link" href="#containers" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/container.png" alt="container">&lt;/p>
-&lt;h4 id="containers-1">&lt;strong>Containers&lt;/strong>&lt;a class="td-heading-self-link" href="#containers-1" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;/p></description></item><item><title>Containers</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/containers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/containers/</guid><description>&lt;h3 id="containers" class="heading-link">
+ &lt;strong>Containers&lt;/strong>
+ &lt;a href="#containers" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[376 292 228 358 149 113]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/container.png" onclick="openModal(this.id)" alt="container" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
+
+&lt;h4 id="containers-1" class="heading-link">
+ &lt;strong>Containers&lt;/strong>
+ &lt;a href="#containers-1" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="td-card card border me-4">
 &lt;div class="card-body">
  &lt;h5 class="card-title">
@@ -63,7 +116,10 @@
 &lt;/video>
 &lt;/p>
  &lt;/div>
- &lt;/div></description></item><item><title>Dockerfile</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dockerfile/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dockerfile/</guid><description>&lt;h3 id="dockerfile">&lt;strong>Dockerfile&lt;/strong>&lt;a class="td-heading-self-link" href="#dockerfile" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+ &lt;/div></description></item><item><title>Dockerfile</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dockerfile/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dockerfile/</guid><description>&lt;h3 id="dockerfile" class="heading-link">
+ &lt;strong>Dockerfile&lt;/strong>
+ &lt;a href="#dockerfile" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000">FROM node:12-alpine * to be based on which other Docker image?&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#000">RUN apk add --no-cache python g++ make * install additional software&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
@@ -75,7 +131,11 @@
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#000">RUN npm install * dependencies for the application&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#000">CMD [&amp;#34;node&amp;#34;, &amp;#34;src/index.js&amp;#34;] * run the app - just like when running outside a container&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="dockerfile-theory">&lt;strong>Dockerfile Theory&lt;/strong>&lt;a class="td-heading-self-link" href="#dockerfile-theory" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h4 id="dockerfile-theory" class="heading-link">
+ &lt;strong>Dockerfile Theory&lt;/strong>
+ &lt;a href="#dockerfile-theory" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="td-card card border me-4">
 &lt;div class="card-body">
  &lt;h5 class="card-title">
@@ -86,14 +146,41 @@
  &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid5.mp4?1752342254038" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video>
-&lt;/p></description></item><item><title>Build &amp; Run</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/build-and-run/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/build-and-run/</guid><description>&lt;h3 id="build--run">&lt;strong>Build &amp;amp; Run&lt;/strong>&lt;a class="td-heading-self-link" href="#build--run" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;/p></description></item><item><title>Build &amp; Run</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/build-and-run/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/build-and-run/</guid><description>&lt;h3 id="build--run" class="heading-link">
+ &lt;strong>Build &amp;amp; Run&lt;/strong>
+ &lt;a href="#build--run" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>docker build
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>In our example, the first step is to build the hello-world container with the &amp;gt; docker build command.&lt;/p>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-build.png" alt="docker-build">&lt;/p>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[31 157 499 138 121 291]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-build.png" onclick="openModal(this.id)" alt="docker-build" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>docker run
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>In our example, the second step is to run the hello-world container with the &amp;gt; docker run command.&lt;/p>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-run.png" alt="docker-run">&lt;/p>
-&lt;h4 id="build--run-1">&lt;strong>Build &amp;amp; Run&lt;/strong>&lt;a class="td-heading-self-link" href="#build--run-1" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[312 238 280 362 484 78]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-run.png" onclick="openModal(this.id)" alt="docker-run" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
+
+&lt;h4 id="build--run-1" class="heading-link">
+ &lt;strong>Build &amp;amp; Run&lt;/strong>
+ &lt;a href="#build--run-1" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="td-card card border me-4">
 &lt;div class="card-body">
  &lt;h5 class="card-title">
@@ -104,9 +191,12 @@
  &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid7.mp4?1752342546480" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video>
-&lt;/p>
- &lt;/div>
- &lt;/div></description></item><item><title>Docker Hub</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dockerhub/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dockerhub/</guid><description>&lt;h3 id="docker-hub">&lt;strong>Docker Hub&lt;/strong>&lt;a class="td-heading-self-link" href="#docker-hub" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>Using a publicly available repository to manage, store, retrieve, and share (if you want to) your container images is a real added value. In traditional IT scenarios, such a solution has to be custom-built most of the time. In the container world, such solutions are part of the ecosystem. With docker containers, the Docker Hub is a natural solution as a repository for our scenarios.&lt;/p>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-hub.png" alt="docker-hub">&lt;/p></description></item><item><title>Docker / Kubernetes</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/docker-kubernetes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/docker-kubernetes/</guid><description>&lt;h3 id="from-docker-to-kubernetes">&lt;strong>From Docker To Kubernetes&lt;/strong>&lt;a class="td-heading-self-link" href="#from-docker-to-kubernetes" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;/p></description></item><item><title>Docker Hub</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dockerhub/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/dockerhub/</guid><description>&lt;h3 id="docker-hub" class="heading-link">
+ &lt;strong>Docker Hub&lt;/strong>
+ &lt;a href="#docker-hub" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>Using a publicly available repository to manage, store, retrieve, and share (if you want to) your container images is a real added value. In traditional IT scenarios, such a solution has to be custom-built most of the time. In the container world, such solutions are part of the ecosystem. With docker containers, the Docker Hub is a natural solution as a repository for our scenarios.&lt;/p></description></item><item><title>Docker / Kubernetes</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/docker-kubernetes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/containers/content/docker-kubernetes/</guid><description>&lt;h3 id="from-docker-to-kubernetes" class="heading-link">
+ &lt;strong>From Docker To Kubernetes&lt;/strong>
+ &lt;a href="#from-docker-to-kubernetes" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>If you want to scale all the container benefits to an entire IT environment, you need additional functions to coordinate, scale, manage, and automate. For example, taking containerized applications from your local machine to your local server can be done without additional help. Still, if you want to do this with 10, 100, or even 1000 applications and start distributing the workloads, clustering them for higher availability and stability in operations to serve the 24/7 demands of today&amp;rsquo;s customers, you need additional help. This help for containerized applications is Kubernetes. This help for a scalable, available, and more flexible infrastructure is Exoscale.&lt;/p></description></item></channel></rss>

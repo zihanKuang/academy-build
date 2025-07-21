@@ -1,20 +1,69 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Why Exoscale DBaaS? on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/</link><description>Recent content in Why Exoscale DBaaS? on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/index.xml" rel="self" type="application/rss+xml"/><item><title>Exoscale DBaaS Benefits</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/benefits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/benefits/</guid><description>&lt;h3 id="exoscale-dbaas-benefits">&lt;strong>Exoscale DBaaS Benefits&lt;/strong>&lt;a class="td-heading-self-link" href="#exoscale-dbaas-benefits" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Why Exoscale DBaaS? on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/</link><description>Recent content in Why Exoscale DBaaS? on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/index.xml" rel="self" type="application/rss+xml"/><item><title>Exoscale DBaaS Benefits</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/benefits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/benefits/</guid><description>&lt;h3 id="exoscale-dbaas-benefits" class="heading-link">
+ &lt;strong>Exoscale DBaaS Benefits&lt;/strong>
+ &lt;a href="#exoscale-dbaas-benefits" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Exoscale DBaaS is an excellent solution for everyone looking for a diverse portfolio of open-source data services used in all types of applications and business solutions.&lt;/p>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas.png" alt="dbaas">&lt;/p>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[479 3 441 72 387 51]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas.png" onclick="openModal(this.id)" alt="dbaas" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
 &lt;p>If you want to know more about the actual service offers, please go to &lt;a href="https://www.exoscale.com/dbaas/">Exoscale DBaaS&lt;/a> on our website.&lt;/p>
-&lt;p>Exoscale DBaaS is deeply integrated into the Infrastructure as a Service platform and is easy to use with well-known user interfaces like the CLI, the API, and Terraform automation to-do your Infrastructure as Code (IaC) as usual.&lt;/p></description></item><item><title>Exoscale DBaaS Features</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/features/</guid><description>&lt;h3 id="exoscale-dbaas-features">&lt;strong>Exoscale DBaaS Features&lt;/strong>&lt;a class="td-heading-self-link" href="#exoscale-dbaas-features" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas-features.png" alt="dbaas-features">&lt;/p>
-&lt;h4 id="daily-backups-included">&lt;strong>Daily Backups included&lt;/strong>&lt;a class="td-heading-self-link" href="#daily-backups-included" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;p>Exoscale DBaaS is deeply integrated into the Infrastructure as a Service platform and is easy to use with well-known user interfaces like the CLI, the API, and Terraform automation to-do your Infrastructure as Code (IaC) as usual.&lt;/p></description></item><item><title>Exoscale DBaaS Features</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/features/</guid><description>&lt;h3 id="exoscale-dbaas-features" class="heading-link">
+ &lt;strong>Exoscale DBaaS Features&lt;/strong>
+ &lt;a href="#exoscale-dbaas-features" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[155 354 500 320 489 250]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas-features.png" onclick="openModal(this.id)" alt="dbaas-features" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
+
+&lt;h4 id="daily-backups-included" class="heading-link">
+ &lt;strong>Daily Backups included&lt;/strong>
+ &lt;a href="#daily-backups-included" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;p>Backups are done on a daily basis and are included with every DBaaS offering.&lt;/p>
-&lt;h4 id="completely-integrated">&lt;strong>Completely Integrated&lt;/strong>&lt;a class="td-heading-self-link" href="#completely-integrated" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+
+&lt;h4 id="completely-integrated" class="heading-link">
+ &lt;strong>Completely Integrated&lt;/strong>
+ &lt;a href="#completely-integrated" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;p>Integrated DBaaS for your instances. Easily manage your database, instance, or storage from the same interface.&lt;/p>
-&lt;h4 id="no-vendor-lock-in">&lt;strong>No Vendor Lock-In&lt;/strong>&lt;a class="td-heading-self-link" href="#no-vendor-lock-in" aria-label="Heading self-link">&lt;/a>&lt;/h4>
-&lt;p>Keep your cloud infrastructure independent and flexible with our offering of open source databases.&lt;/p>
-&lt;h4 id="your-data-stays-in-europe">&lt;strong>Your Data Stays In Europe&lt;/strong>&lt;a class="td-heading-self-link" href="#your-data-stays-in-europe" aria-label="Heading self-link">&lt;/a>&lt;/h4>
-&lt;p>All data is stored in the country of your chosen zone, fully GDPR-compliant. DBaaS is available across European zones.&lt;/p></description></item><item><title>Powered by Aiven</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/powered-aiven/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/powered-aiven/</guid><description>&lt;h3 id="powered-by-aiven">&lt;strong>Powered by Aiven&lt;/strong>&lt;a class="td-heading-self-link" href="#powered-by-aiven" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+
+&lt;h4 id="no-vendor-lock-in" class="heading-link">
+ &lt;strong>No Vendor Lock-In&lt;/strong>
+ &lt;a href="#no-vendor-lock-in" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
+&lt;p>Keep your cloud infrastructure independent and flexible with our offering of open source databases.&lt;/p></description></item><item><title>Powered by Aiven</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/powered-aiven/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/exoscale-dbaas/content/powered-aiven/</guid><description>&lt;h3 id="powered-by-aiven" class="heading-link">
+ &lt;strong>Powered by Aiven&lt;/strong>
+ &lt;a href="#powered-by-aiven" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;ul>
 &lt;li>Our DBaaS is powered by Aiven, one of the leading European companies for managing Open Source data infrastructure in the cloud.&lt;/li>
 &lt;li>The partnership offers Exoscale customers an integrated environment for their complete cloud infrastructure – without any security compromise.&lt;/li>
 &lt;li>Both companies are GDPR-compliant to ensure the highest standards for customers’ data. The sole use of Open Source projects ensures that customers are not vendor locked-in and always at the latest technology standard.&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/aiven-exoscale.png" alt="aiven-exoscale">&lt;/p></description></item></channel></rss>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[349 291 406 296 63 94]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/aiven-exoscale.png" onclick="openModal(this.id)" alt="aiven-exoscale" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p></description></item></channel></rss>

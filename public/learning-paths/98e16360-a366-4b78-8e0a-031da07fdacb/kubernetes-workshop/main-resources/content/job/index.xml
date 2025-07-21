@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jobs &amp; CronJobs on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/</link><description>Recent content in Jobs &amp; CronJobs on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/content/learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/content/learn/</guid><description>&lt;h2 id="what-is-a-job-">What is a Job ?&lt;a class="td-heading-self-link" href="#what-is-a-job-" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jobs &amp; CronJobs on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/</link><description>Recent content in Jobs &amp; CronJobs on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/content/learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/content/learn/</guid><description>&lt;h2 id="what-is-a-job-" class="heading-link">
+ What is a Job ?
+ &lt;a href="#what-is-a-job-" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h2>
 &lt;p>A Job is used to launch batch-jobs. It can either:&lt;/p>
 &lt;ul>
 &lt;li>launch a single Pod&lt;/li>
 &lt;li>launch several Pods in parallel or in sequence&lt;/li>
 &lt;/ul>
-&lt;h3 id="sample-specification">Sample specification&lt;a class="td-heading-self-link" href="#sample-specification" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+
+&lt;h3 id="sample-specification" class="heading-link">
+ Sample specification
+ &lt;a href="#sample-specification" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>The following specification defines a simple Job which runs 3 Pods sequentially, each Pod waits 10 seconds and displays a simple text on its standard output:&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">apiVersion&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">batch/v1 &lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">kind&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">Job&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
@@ -25,7 +32,10 @@
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>- &lt;span style="color:#000">sleep 10; echo Hello from kube&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol>
 &lt;li>
-&lt;p>The job will terminate when 3 Pods have reached the “Completed” status&lt;/p></description></item><item><title>Practice</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/content/practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/content/practice/</guid><description>&lt;h2 id="use-a-cronjob-to-create-dummy-votes">Use a CronJob to create dummy votes&lt;a class="td-heading-self-link" href="#use-a-cronjob-to-create-dummy-votes" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>The job will terminate when 3 Pods have reached the “Completed” status&lt;/p></description></item><item><title>Practice</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/content/practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/job/content/practice/</guid><description>&lt;h2 id="use-a-cronjob-to-create-dummy-votes" class="heading-link">
+ Use a CronJob to create dummy votes
+ &lt;a href="#use-a-cronjob-to-create-dummy-votes" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h2>
 &lt;ol>
 &lt;li>In a file named &lt;em>cronjob.yaml&lt;/em>, define the specification for a &lt;em>CronJob&lt;/em> resource with the following characteristics:&lt;/li>
 &lt;/ol>
@@ -36,15 +46,4 @@
 &lt;/ul>
 &lt;ol start="2">
 &lt;li>
-&lt;p>Deploy the application and verify, from the &lt;em>resultui&lt;/em> interface, that 10 new votes are created every minute.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Delete the application.&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;br/>
-&lt;details>
-&lt;summary markdown="span">Solution&lt;/summary>
-&lt;ol>
-&lt;li>
-&lt;p>The specification to define the &lt;em>seed&lt;/em> CronJob is as follows:&lt;/p></description></item></channel></rss>
+&lt;p>Deploy the application and verify, from the &lt;em>resultui&lt;/em> interface, that 10 new votes are created every minute.&lt;/p></description></item></channel></rss>

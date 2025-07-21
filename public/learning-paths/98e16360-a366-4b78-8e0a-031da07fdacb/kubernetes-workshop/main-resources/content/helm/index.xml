@@ -1,11 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Helm on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/</link><description>Recent content in Helm on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/learn/</guid><description>&lt;h2 id="what-is-helm-">What is Helm ?&lt;a class="td-heading-self-link" href="#what-is-helm-" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Helm on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/</link><description>Recent content in Helm on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/learn/</guid><description>&lt;h2 id="what-is-helm-" class="heading-link">
+ What is Helm ?
+ &lt;a href="#what-is-helm-" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h2>
 &lt;p>Helm is a Package Manager for Kubernetes, it allows defining, installing, upgrading and deleting applications.&lt;br>
 A Helm Chart is an application packaged with Helm, it has a script file/folder structure and uses a templating language.&lt;br>
 The Helm Client is a binary used to manipulate application packaged with Helm.&lt;/p>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/overview.png" alt="overview">&lt;/p>
-&lt;p>The complete documentation can be found at &lt;a href="https://helm.sh">https://helm.sh&lt;/a>&lt;/p>
-&lt;h2 id="artifacthub">ArtifactHub&lt;a class="td-heading-self-link" href="#artifacthub" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>The &lt;a href="https://artifacthub.io">ArtifactHub&lt;/a> is the place where many applications are distributed and ready to be deployed in a Kubernetes cluster.&lt;/p></description></item><item><title>Practice</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/practice/</guid><description>&lt;h2 id="package-and-distribute-the-votingapp-with-helm">Package and distribute the VotingApp with Helm&lt;a class="td-heading-self-link" href="#package-and-distribute-the-votingapp-with-helm" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[407 246 264 392 153 98]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/overview.png" onclick="openModal(this.id)" alt="overview" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
+&lt;p>The complete documentation can be found at &lt;a href="https://helm.sh">https://helm.sh&lt;/a>&lt;/p></description></item><item><title>Practice</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/helm/content/practice/</guid><description>&lt;h2 id="package-and-distribute-the-votingapp-with-helm" class="heading-link">
+ Package and distribute the VotingApp with Helm
+ &lt;a href="#package-and-distribute-the-votingapp-with-helm" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h2>
 &lt;p>In this exercise, you will package the VotingApp application into a Helm Chart.&lt;/p>
 &lt;ol>
 &lt;li>Install the Helm Client&lt;/li>
@@ -17,6 +31,4 @@ The Helm Client is a binary used to manipulate application packaged with Helm.&l
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="2">
 &lt;li>Creating a Helm Chart&lt;/li>
 &lt;/ol>
-&lt;p>Use the following command to create a Chart named &lt;em>vote&lt;/em>.&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>helm create vote
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>By default, it includes the following elements:&lt;/p></description></item></channel></rss>
+&lt;p>Use the following command to create a Chart named &lt;em>vote&lt;/em>.&lt;/p></description></item></channel></rss>

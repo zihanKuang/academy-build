@@ -1,18 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kubernetes on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/</link><description>Recent content in Kubernetes on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/index.xml" rel="self" type="application/rss+xml"/><item><title>What is it?</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/what-it-is/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/what-it-is/</guid><description>&lt;h3 id="what-is-it">&lt;strong>What is it?&lt;/strong>&lt;a class="td-heading-self-link" href="#what-is-it" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/what-it-is.png" alt="what-it-is">&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kubernetes on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/</link><description>Recent content in Kubernetes on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/index.xml" rel="self" type="application/rss+xml"/><item><title>What is it?</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/what-it-is/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/what-it-is/</guid><description>&lt;h3 id="what-is-it" class="heading-link">
+ &lt;strong>What is it?&lt;/strong>
+ &lt;a href="#what-is-it" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[67 347 23 331 246 17]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/what-it-is.png" onclick="openModal(this.id)" alt="what-it-is" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
 &lt;p>Google open-sourced the Kubernetes project in 2014. Kubernetes combines over 15 years of Google&amp;rsquo;s experience running production workloads at scale with best-of-breed ideas and practices from the community.&lt;/p>
 &lt;p>The name Kubernetes originates from Greek, meaning helmsman or pilot.&lt;/p>
-&lt;p>&lt;strong>Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services that facilitates both automation and declarative configuration.&lt;/strong>&lt;/p></description></item><item><title>Software Needed</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/software-needed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/software-needed/</guid><description>&lt;h3 id="software-needed">&lt;strong>Software Needed&lt;/strong>&lt;a class="td-heading-self-link" href="#software-needed" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;h4 id="kubernetes">&lt;strong>Kubernetes&lt;/strong>&lt;a class="td-heading-self-link" href="#kubernetes" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;p>&lt;strong>Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services that facilitates both automation and declarative configuration.&lt;/strong>&lt;/p></description></item><item><title>Software Needed</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/software-needed/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/software-needed/</guid><description>&lt;h3 id="software-needed" class="heading-link">
+ &lt;strong>Software Needed&lt;/strong>
+ &lt;a href="#software-needed" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+
+&lt;h4 id="kubernetes" class="heading-link">
+ &lt;strong>Kubernetes&lt;/strong>
+ &lt;a href="#kubernetes" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;p>&lt;strong>kubectl&lt;/strong> – for accessing clusters&lt;/p>
 &lt;p>&lt;a href="https://kubernetes.io/de/docs/tasks/tools/install-kubectl/">https://kubernetes.io/de/docs/tasks/tools/install-kubectl/&lt;/a>&lt;/p>
-&lt;h4 id="local-test-cluster">&lt;strong>Local Test Cluster&lt;/strong>&lt;a class="td-heading-self-link" href="#local-test-cluster" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+
+&lt;h4 id="local-test-cluster" class="heading-link">
+ &lt;strong>Local Test Cluster&lt;/strong>
+ &lt;a href="#local-test-cluster" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;p>&lt;strong>minikube&lt;/strong> – tool to create a cluster on your local computer&lt;/p>
 &lt;p>&lt;a href="https://kubernetes.io/de/docs/setup/minikube/">https://kubernetes.io/de/docs/setup/minikube/&lt;/a>&lt;/p>
-&lt;h4 id="exoscale-cluster">&lt;strong>Exoscale Cluster&lt;/strong>&lt;a class="td-heading-self-link" href="#exoscale-cluster" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+
+&lt;h4 id="exoscale-cluster" class="heading-link">
+ &lt;strong>Exoscale Cluster&lt;/strong>
+ &lt;a href="#exoscale-cluster" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;p>&lt;strong>exoscale&lt;/strong>-CLI or exoscale-UI – used to create HA-Clusters on Exoscale&lt;/p>
 &lt;p>&lt;a href="https://community.exoscale.com/documentation/compute/quick-start/">https://community.exoscale.com/documentation/compute/quick-start/&lt;/a>&lt;/p>
-&lt;h4 id="k8s-software">&lt;strong>K8s Software&lt;/strong>&lt;a class="td-heading-self-link" href="#k8s-software" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+
+&lt;h4 id="k8s-software" class="heading-link">
+ &lt;strong>K8s Software&lt;/strong>
+ &lt;a href="#k8s-software" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="td-card card border me-4">
 &lt;div class="card-body">
  &lt;h5 class="card-title">
@@ -23,28 +55,85 @@
  &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid10.mp4?1752606198490" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video>
-&lt;/p>
- &lt;/div>
- &lt;/div></description></item><item><title>Imperative vs Declarative</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/imperative-vs-declarative/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/imperative-vs-declarative/</guid><description>&lt;h3 id="imperative-vs-declarative">&lt;strong>Imperative vs Declarative&lt;/strong>&lt;a class="td-heading-self-link" href="#imperative-vs-declarative" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;/p></description></item><item><title>Imperative vs Declarative</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/imperative-vs-declarative/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/imperative-vs-declarative/</guid><description>&lt;h3 id="imperative-vs-declarative" class="heading-link">
+ &lt;strong>Imperative vs Declarative&lt;/strong>
+ &lt;a href="#imperative-vs-declarative" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services that facilitates both automation and declarative configuration.&amp;quot;&lt;/p>
-&lt;h4 id="configuration-differences">&lt;strong>Configuration Differences&lt;/strong>&lt;a class="td-heading-self-link" href="#configuration-differences" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+
+&lt;h4 id="configuration-differences" class="heading-link">
+ &lt;strong>Configuration Differences&lt;/strong>
+ &lt;a href="#configuration-differences" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;p>What a difference a configuration makes :).&lt;/p>
-&lt;p>The significant change in this new IT world is that well-trained and practiced processes are outdated and useless. The imperative was the old world, you defined step-by-step guidance, and you also executed or oversaw the execution of those configuration steps. The declarative way is to determine the desired state and an intelligent system conducts and supervises the configuration and operation steps.&lt;/p></description></item><item><title>Features</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/features/</guid><description>&lt;h3 id="features">&lt;strong>Features&lt;/strong>&lt;a class="td-heading-self-link" href="#features" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/features.png" alt="features">&lt;/p>
-&lt;h3 id="kubernetes-feature-details">&lt;strong>Kubernetes Feature Details&lt;/strong>&lt;a class="td-heading-self-link" href="#kubernetes-feature-details" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;h4 id="self-healing">&lt;strong>self-healing&lt;/strong>&lt;a class="td-heading-self-link" href="#self-healing" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;p>The significant change in this new IT world is that well-trained and practiced processes are outdated and useless. The imperative was the old world, you defined step-by-step guidance, and you also executed or oversaw the execution of those configuration steps. The declarative way is to determine the desired state and an intelligent system conducts and supervises the configuration and operation steps.&lt;/p></description></item><item><title>Features</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/features/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/features/</guid><description>&lt;h3 id="features" class="heading-link">
+ &lt;strong>Features&lt;/strong>
+ &lt;a href="#features" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[85 303 224 401 462 398]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/features.png" onclick="openModal(this.id)" alt="features" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
+
+&lt;h3 id="kubernetes-feature-details" class="heading-link">
+ &lt;strong>Kubernetes Feature Details&lt;/strong>
+ &lt;a href="#kubernetes-feature-details" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+
+&lt;h4 id="self-healing" class="heading-link">
+ &lt;strong>self-healing&lt;/strong>
+ &lt;a href="#self-healing" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;p>Kubernetes restarts containers that fail, replaces containers, kills containers that don&amp;rsquo;t respond to your user-defined health check, and doesn&amp;rsquo;t advertise them to clients until they are ready to serve.&lt;/p>
-&lt;h4 id="automatic-bin-packing">&lt;strong>automatic bin packing&lt;/strong>&lt;a class="td-heading-self-link" href="#automatic-bin-packing" aria-label="Heading self-link">&lt;/a>&lt;/h4>
-&lt;p>You provide Kubernetes with a cluster of nodes that it can use to run containerized tasks. You tell Kubernetes how much CPU and RAM each container needs. Kubernetes can fit containers onto your nodes to make the best use of your resources.&lt;/p></description></item><item><title>Positoning</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/positioning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/positioning/</guid><description>&lt;h3 id="positoning">&lt;strong>Positoning&lt;/strong>&lt;a class="td-heading-self-link" href="#positoning" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;h4 id="kubernetes-is">&lt;strong>Kubernetes is &amp;hellip;&lt;/strong>&lt;a class="td-heading-self-link" href="#kubernetes-is" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+
+&lt;h4 id="automatic-bin-packing" class="heading-link">
+ &lt;strong>automatic bin packing&lt;/strong>
+ &lt;a href="#automatic-bin-packing" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
+&lt;p>You provide Kubernetes with a cluster of nodes that it can use to run containerized tasks. You tell Kubernetes how much CPU and RAM each container needs. Kubernetes can fit containers onto your nodes to make the best use of your resources.&lt;/p></description></item><item><title>Positoning</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/positioning/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/positioning/</guid><description>&lt;h3 id="positoning" class="heading-link">
+ &lt;strong>Positoning&lt;/strong>
+ &lt;a href="#positoning" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+
+&lt;h4 id="kubernetes-is" class="heading-link">
+ &lt;strong>Kubernetes is &amp;hellip;&lt;/strong>
+ &lt;a href="#kubernetes-is" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;p>&amp;hellip; &lt;strong>providing&lt;/strong> the building blocks for creating developer and infrastructure platforms but preserves user choice and flexibility where it is essential.&lt;/p>
 &lt;p>&amp;hellip; &lt;strong>extensible&lt;/strong>, and lets users integrate their logging, monitoring, alerting, and many more solutions because it is not monolithic, and these solutions are optional and pluggable.&lt;/p>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/positioning.png" alt="positioning">&lt;/p>
-&lt;h4 id="kubernetes-is-not">&lt;strong>Kubernetes is NOT &amp;hellip;&lt;/strong>&lt;a class="td-heading-self-link" href="#kubernetes-is-not" aria-label="Heading self-link">&lt;/a>&lt;/h4>
-&lt;p>&lt;strong>&amp;hellip; a traditional, all-inclusive PaaS system.&lt;/strong>&lt;/p>
-&lt;p>Kubernetes operates at the container level rather than at the hardware level. It provides some generally helpful features common to PaaS offerings, such as deployment, scaling, load balancing.&lt;/p></description></item><item><title>Basic Commands</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/basic-commands/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/basic-commands/</guid><description>&lt;h3 id="basic-commands">&lt;strong>Basic Commands&lt;/strong>&lt;a class="td-heading-self-link" href="#basic-commands" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[419 142 432 124 187 399]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/positioning.png" onclick="openModal(this.id)" alt="positioning" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
+
+&lt;h4 id="kubernetes-is-not" class="heading-link">
+ &lt;strong>Kubernetes is NOT &amp;hellip;&lt;/strong>
+ &lt;a href="#kubernetes-is-not" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
+&lt;p>&lt;strong>&amp;hellip; a traditional, all-inclusive PaaS system.&lt;/strong>&lt;/p></description></item><item><title>Basic Commands</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/basic-commands/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/basic-commands/</guid><description>&lt;h3 id="basic-commands" class="heading-link">
+ &lt;strong>Basic Commands&lt;/strong>
+ &lt;a href="#basic-commands" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>To get a feeling for this new world, let&amp;rsquo;s have a look at some simple applications of the kubectl command.&lt;/p>
-&lt;h4 id="basic-k8s-commands">&lt;strong>Basic K8s Commands&lt;/strong>&lt;a class="td-heading-self-link" href="#basic-k8s-commands" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+
+&lt;h4 id="basic-k8s-commands" class="heading-link">
+ &lt;strong>Basic K8s Commands&lt;/strong>
+ &lt;a href="#basic-k8s-commands" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="td-card card border me-4">
 &lt;div class="card-body">
  &lt;h5 class="card-title">
@@ -57,18 +146,45 @@
 &lt;/video>
 &lt;/p>
  &lt;/div>
- &lt;/div></description></item><item><title>Simple Examples</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/simple-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/simple-examples/</guid><description>&lt;h3 id="simple-examples">&lt;strong>Simple Examples&lt;/strong>&lt;a class="td-heading-self-link" href="#simple-examples" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+ &lt;/div></description></item><item><title>Simple Examples</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/simple-examples/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/simple-examples/</guid><description>&lt;h3 id="simple-examples" class="heading-link">
+ &lt;strong>Simple Examples&lt;/strong>
+ &lt;a href="#simple-examples" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Let&amp;rsquo;s look at two examples. First, a simple hello-world container and second, a simple Ubuntu container.&lt;/p>
 &lt;ul>
 &lt;li>simple hello-world container&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/hello-world-container.png" alt="hello-world-container">&lt;/p>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[29 308 169 194 26 289]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/hello-world-container.png" onclick="openModal(this.id)" alt="hello-world-container" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
 &lt;ul>
 &lt;li>simple ubuntu container&lt;/li>
 &lt;/ul>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/ubuntu-container.png" alt="ubuntu-container">&lt;/p>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[121 439 276 494 68 258]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/ubuntu-container.png" onclick="openModal(this.id)" alt="ubuntu-container" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
 &lt;p>Watch these two examples below in the videos.&lt;/p>
-&lt;h4 id="simple-hello-world-container">&lt;strong>Simple Hello-World Container&lt;/strong>&lt;a class="td-heading-self-link" href="#simple-hello-world-container" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+
+&lt;h4 id="simple-hello-world-container" class="heading-link">
+ &lt;strong>Simple Hello-World Container&lt;/strong>
+ &lt;a href="#simple-hello-world-container" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="td-card card border me-4">
 &lt;div class="card-body">
  &lt;h5 class="card-title">
@@ -79,22 +195,10 @@
  &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid14.mp4?1752607636178" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video>
-&lt;/p>
- &lt;/div>
- &lt;/div>
-
-&lt;h4 id="simple-ubuntu-container">&lt;strong>Simple Ubuntu Container&lt;/strong>&lt;a class="td-heading-self-link" href="#simple-ubuntu-container" aria-label="Heading self-link">&lt;/a>&lt;/h4>
-&lt;div class="td-card card border me-4">
-&lt;div class="card-body">
- &lt;h5 class="card-title">
- Video: Simple Ubuntu Container&lt;/h5>
- &lt;p class="card-text">
- 
-&lt;video width="100%" height="100%" controls>
- &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid13.mp4?1752607636187" type="video/mp4">
- Your browser does not support the video tag.
-&lt;/video>
-&lt;/p></description></item><item><title>Basic Concepts</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/basic-concepts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/basic-concepts/</guid><description>&lt;h3 id="basic-concepts">&lt;strong>Basic Concepts&lt;/strong>&lt;a class="td-heading-self-link" href="#basic-concepts" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;/p></description></item><item><title>Basic Concepts</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/basic-concepts/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/kubernetes/content/basic-concepts/</guid><description>&lt;h3 id="basic-concepts" class="heading-link">
+ &lt;strong>Basic Concepts&lt;/strong>
+ &lt;a href="#basic-concepts" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>The four foundational Kubernetes concepts listed below are essential to run your modern applications on scalable cloud infrastructure.&lt;/p>
 &lt;ul>
 &lt;li>PODs&lt;/li>
@@ -103,8 +207,22 @@
 &lt;li>SERVICEs&lt;/li>
 &lt;/ul>
 &lt;p>These four concepts are explained in more detail in the videos below.&lt;/p>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/basic-concepts.png" alt="basic-concepts">&lt;/p>
-&lt;h4 id="pods">&lt;strong>PODs&lt;/strong>&lt;a class="td-heading-self-link" href="#pods" aria-label="Heading self-link">&lt;/a>&lt;/h4>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[420 189 92 458 328 484]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/basic-concepts.png" onclick="openModal(this.id)" alt="basic-concepts" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
+
+&lt;h4 id="pods" class="heading-link">
+ &lt;strong>PODs&lt;/strong>
+ &lt;a href="#pods" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="td-card card border me-4">
 &lt;div class="card-body">
  &lt;h5 class="card-title">
@@ -113,21 +231,6 @@
  
 &lt;video width="100%" height="100%" controls>
  &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid11.mp4?1752607888634" type="video/mp4">
- Your browser does not support the video tag.
-&lt;/video>
-&lt;/p>
- &lt;/div>
- &lt;/div>
-
-&lt;h4 id="deployments">&lt;strong>DEPLOYMENTs&lt;/strong>&lt;a class="td-heading-self-link" href="#deployments" aria-label="Heading self-link">&lt;/a>&lt;/h4>
-&lt;div class="td-card card border me-4">
-&lt;div class="card-body">
- &lt;h5 class="card-title">
- Video: DEPLOYMENTs&lt;/h5>
- &lt;p class="card-text">
- 
-&lt;video width="100%" height="100%" controls>
- &lt;source src="https://sos-de-fra-1.exo.io/exoscale-academy/videos/sks_starter_vid15.mp4?1752607888643" type="video/mp4">
  Your browser does not support the video tag.
 &lt;/video>
 &lt;/p></description></item></channel></rss>

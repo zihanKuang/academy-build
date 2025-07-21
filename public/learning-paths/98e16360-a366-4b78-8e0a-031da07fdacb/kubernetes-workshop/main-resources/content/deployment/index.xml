@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deployment on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/</link><description>Recent content in Deployment on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/learn/</guid><description>&lt;h2 id="what-is-a-deployment-">What is a Deployment ?&lt;a class="td-heading-self-link" href="#what-is-a-deployment-" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Deployment on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/</link><description>Recent content in Deployment on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/index.xml" rel="self" type="application/rss+xml"/><item><title>Learn</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/learn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/learn/</guid><description>&lt;h2 id="what-is-a-deployment-" class="heading-link">
+ What is a Deployment ?
+ &lt;a href="#what-is-a-deployment-" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h2>
 &lt;p>A Deployment is used to manage one or more Pods with the same specification. It manages the Pod lifecycle:&lt;/p>
 &lt;ul>
 &lt;li>creation and deletion&lt;/li>
@@ -11,8 +14,15 @@
 &lt;li>ReplicaSet: ensures the number of Pod replicas&lt;/li>
 &lt;li>Pod: smallest workload unit containing one or more containers&lt;/li>
 &lt;/ul>
-&lt;h2 id="from-pod-to-deployment">From Pod to Deployment&lt;a class="td-heading-self-link" href="#from-pod-to-deployment" aria-label="Heading self-link">&lt;/a>&lt;/h2>
-&lt;p>Pod are rarely created directly, they are usually managed by higher level resources such as:&lt;/p></description></item><item><title>Practice</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/practice/</guid><description>&lt;h2 id="use-deployments-in-the-votingapp">Use Deployments in the VotingApp&lt;a class="td-heading-self-link" href="#use-deployments-in-the-votingapp" aria-label="Heading self-link">&lt;/a>&lt;/h2>
+
+&lt;h2 id="from-pod-to-deployment" class="heading-link">
+ From Pod to Deployment
+ &lt;a href="#from-pod-to-deployment" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h2>
+&lt;p>Pod are rarely created directly, they are usually managed by higher level resources such as:&lt;/p></description></item><item><title>Practice</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/practice/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/kubernetes-workshop/main-resources/content/deployment/content/practice/</guid><description>&lt;h2 id="use-deployments-in-the-votingapp" class="heading-link">
+ Use Deployments in the VotingApp
+ &lt;a href="#use-deployments-in-the-votingapp" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h2>
 &lt;ol>
 &lt;li>
 &lt;p>In the &lt;em>votingapp&lt;/em> directory, replace each Pod specification with a Deployment specification with a single replica. Name these Deployment files &lt;em>deploy-XXX.yaml&lt;/em> where XXX is the name of the microservice (&lt;em>voteui&lt;/em>, &lt;em>vote&lt;/em>, &amp;hellip;)&lt;/p>
@@ -179,4 +189,14 @@
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="3">
 &lt;li>As before, using the IP address of one of the cluster nodes, you can access the vote and result interfaces via ports &lt;em>31000&lt;/em> and &lt;em>31001&lt;/em> respectively.&lt;/li>
 &lt;/ol>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/vote.png" alt="vote">&lt;/p></description></item></channel></rss>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[416 52 344 330 86 49]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/k8s-workshop/vote.png" onclick="openModal(this.id)" alt="vote" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p></description></item></channel></rss>

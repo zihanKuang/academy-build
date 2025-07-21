@@ -1,17 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/</link><description>Recent content in Cloud on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloud Computing</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/cloud-computing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/cloud-computing/</guid><description>&lt;h3 id="definition">&lt;strong>Definition&lt;/strong>&lt;a class="td-heading-self-link" href="#definition" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cloud on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/</link><description>Recent content in Cloud on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/index.xml" rel="self" type="application/rss+xml"/><item><title>Cloud Computing</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/cloud-computing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/cloud-computing/</guid><description>&lt;h3 id="definition" class="heading-link">
+ &lt;strong>Definition&lt;/strong>
+ &lt;a href="#definition" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Cloud computing is a technology that allows users to access computing resources, such as servers, storage, and applications, over the Internet, without the need for on-site hardware or infrastructure.&lt;/p>
-&lt;p>That enables users to scale their computing resources up or down as needed and pay only for their use. It also allows for greater flexibility, mobility, and collaboration. In addition, users can access their data and applications anywhere with an Internet connection.&lt;/p></description></item><item><title>Service Models</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/service-models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/service-models/</guid><description>&lt;h3 id="explained">&lt;strong>Explained&lt;/strong>&lt;a class="td-heading-self-link" href="#explained" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>That enables users to scale their computing resources up or down as needed and pay only for their use. It also allows for greater flexibility, mobility, and collaboration. In addition, users can access their data and applications anywhere with an Internet connection.&lt;/p></description></item><item><title>Service Models</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/service-models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/service-models/</guid><description>&lt;h3 id="explained" class="heading-link">
+ &lt;strong>Explained&lt;/strong>
+ &lt;a href="#explained" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Cloud services models refer to how cloud computing services are delivered to users. The three main cloud services models are:&lt;/p>
 &lt;p>&lt;strong>Infrastructure as a Service&lt;/strong> (IaaS):&lt;/p>
 &lt;p>Users access virtualized computing, networking, and storage resources as services, which are owned, managed, and maintained by the cloud provider. Users have complete control over the configuration and management of the virtualized resources.&lt;/p>
-&lt;p>&lt;strong>Platform as a Service&lt;/strong> (PaaS):&lt;/p>
-&lt;p>Developers access a complete development and deployment environment in the cloud, including application development frameworks, databases, middleware, and other tools needed to build, test, and deploy applications.&lt;/p></description></item><item><title>Deployment Models</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/deployment-models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/deployment-models/</guid><description>&lt;h3 id="explained">&lt;strong>Explained&lt;/strong>&lt;a class="td-heading-self-link" href="#explained" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/circles.png" alt="circles">&lt;/p>
-&lt;h3 id="public-cloud">&lt;strong>Public Cloud&lt;/strong>&lt;a class="td-heading-self-link" href="#public-cloud" aria-label="Heading self-link">&lt;/a>&lt;/h3>
+&lt;p>&lt;strong>Platform as a Service&lt;/strong> (PaaS):&lt;/p></description></item><item><title>Deployment Models</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/deployment-models/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/deployment-models/</guid><description>&lt;h3 id="explained" class="heading-link">
+ &lt;strong>Explained&lt;/strong>
+ &lt;a href="#explained" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[186 471 49 348 479 175]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/circles.png" onclick="openModal(this.id)" alt="circles" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
+
+&lt;h3 id="public-cloud" class="heading-link">
+ &lt;strong>Public Cloud&lt;/strong>
+ &lt;a href="#public-cloud" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Public Cloud is a cloud computing model where the service provider owns, manages, and maintains the physical infrastructure, such as data centers, servers, networking equipment, and storage. Users access virtualized computing, networking, and storage resources as services, which can be quickly and easily provisioned and scaled as needed.&lt;/p>
-&lt;p>Public Cloud is accessible over the internet and is typically offered on a pay-per-use basis. It allows organizations to avoid the costs and complexities of managing their hardware and infrastructure and instead focus on their core business needs.&lt;/p></description></item><item><title>Scenarios</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/scenarios/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/scenarios/</guid><description>&lt;h3 id="generic-iaas-use-cases">&lt;strong>Generic IaaS Use Cases&lt;/strong>&lt;a class="td-heading-self-link" href="#generic-iaas-use-cases" aria-label="Heading self-link">&lt;/a>&lt;/h3>
-&lt;p>&lt;img src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/generic.png" alt="cloud-computing">&lt;/p>
-&lt;h4 id="lift--shift">&lt;strong>Lift &amp;amp; Shift&lt;/strong>&lt;a class="td-heading-self-link" href="#lift--shift" aria-label="Heading self-link">&lt;/a>&lt;/h4>
-&lt;p>One speaks of Lift &amp;amp; Shift when moving existing, traditional workloads into an IaaS cloud as unaltered as possible is unavoidable. Management Tools for IT Operations are, as far as possible, supported by the existing Data Center Operation taken over and implemented. Cloud-native functions have little or no application.&lt;/p>
-&lt;h4 id="improve--move">&lt;strong>Improve &amp;amp; Move&lt;/strong>&lt;a class="td-heading-self-link" href="#improve--move" aria-label="Heading self-link">&lt;/a>&lt;/h4>
-&lt;p>One speaks of Improve &amp;amp; Move if you adapt and modify IT processes in this approach to take advantage of cloud-native functions at least partially. You should use the migration process to achieve a more substantial standardization, a higher degree of automation, and free existing processes from legacy burdens.&lt;/p></description></item></channel></rss>
+&lt;p>Public Cloud is accessible over the internet and is typically offered on a pay-per-use basis. It allows organizations to avoid the costs and complexities of managing their hardware and infrastructure and instead focus on their core business needs.&lt;/p></description></item><item><title>Scenarios</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/scenarios/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud/content/scenarios/</guid><description>&lt;h3 id="generic-iaas-use-cases" class="heading-link">
+ &lt;strong>Generic IaaS Use Cases&lt;/strong>
+ &lt;a href="#generic-iaas-use-cases" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>
+
+
+
+
+
+
+&lt;div class="md__image">
+ &lt;img id="[7 459 436 13 236 349]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/generic.png" onclick="openModal(this.id)" alt="cloud-computing" 
+ class="md-image-responsive" />
+&lt;/div>&lt;/p>
+
+&lt;h4 id="lift--shift" class="heading-link">
+ &lt;strong>Lift &amp;amp; Shift&lt;/strong>
+ &lt;a href="#lift--shift" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
+&lt;p>One speaks of Lift &amp;amp; Shift when moving existing, traditional workloads into an IaaS cloud as unaltered as possible is unavoidable. Management Tools for IT Operations are, as far as possible, supported by the existing Data Center Operation taken over and implemented. Cloud-native functions have little or no application.&lt;/p></description></item></channel></rss>
