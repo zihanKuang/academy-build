@@ -11,7 +11,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[318 240 211 17 46 143]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas.png" onclick="openModal(this.id)" alt="dbaas" 
+ &lt;img id="[367 194 165 265 443 178]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas.png" onclick="openModal(this.id)" alt="dbaas" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>If you want to know more about the actual service offers, please go to &lt;a href="https://www.exoscale.com/dbaas/">Exoscale DBaaS&lt;/a> on our website.&lt;/p>
@@ -27,7 +27,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[304 68 435 174 112 1]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas-features.png" onclick="openModal(this.id)" alt="dbaas-features" 
+ &lt;img id="[36 390 293 223 296 422]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/dbaas-features.png" onclick="openModal(this.id)" alt="dbaas-features" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -64,6 +64,6 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[191 495 458 441 40 29]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/aiven-exoscale.png" onclick="openModal(this.id)" alt="aiven-exoscale" 
+ &lt;img id="[161 404 135 42 19 81]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-dbaas/aiven-exoscale.png" onclick="openModal(this.id)" alt="aiven-exoscale" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item></channel></rss>
