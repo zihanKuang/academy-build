@@ -10,7 +10,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[465 419 168 252 485 28]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-history.png" onclick="openModal(this.id)" alt="exo-history" 
+ &lt;img id="[311 125 194 294 165 295]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-history.png" onclick="openModal(this.id)" alt="exo-history" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -27,7 +27,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[400 121 382 468 150 137]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-web.png" onclick="openModal(this.id)" alt="exo-web" 
+ &lt;img id="[450 33 350 361 219 19]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-web.png" onclick="openModal(this.id)" alt="exo-web" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -47,7 +47,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[408 320 327 370 208 343]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-history.png" onclick="openModal(this.id)" alt="exo-history" 
+ &lt;img id="[345 430 472 138 32 325]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exo-history.png" onclick="openModal(this.id)" alt="exo-history" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -68,7 +68,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[333 388 454 221 399 157]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/performance2.png" onclick="openModal(this.id)" alt="performance2" 
+ &lt;img id="[273 65 244 173 368 182]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/performance2.png" onclick="openModal(this.id)" alt="performance2" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -84,7 +84,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[484 227 207 398 124 39]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/zones.png" onclick="openModal(this.id)" alt="zones" 
+ &lt;img id="[459 188 339 29 12 289]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/zones.png" onclick="openModal(this.id)" alt="zones" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -100,7 +100,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[162 321 81 236 210 60]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/price-compare.png" onclick="openModal(this.id)" alt="price-compare" 
+ &lt;img id="[431 441 137 416 387 107]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/price-compare.png" onclick="openModal(this.id)" alt="price-compare" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -116,7 +116,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[51 119 210 368 15 280]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/trans_pricing.png" onclick="openModal(this.id)" alt="trans_pricing" 
+ &lt;img id="[203 417 53 288 176 455]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/trans_pricing.png" onclick="openModal(this.id)" alt="trans_pricing" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Compliance</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/compliance/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/compliance/</guid><description>&lt;h3 id="gdpr-vs-cloud-act" class="heading-link">
  &lt;strong>GDPR vs. CLOUD Act&lt;/strong>
@@ -130,7 +130,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[348 216 62 286 67 188]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/GDPRvsCLOUDact.png" onclick="openModal(this.id)" alt="GDPRvsCLOUDact" 
+ &lt;img id="[343 251 500 209 450 238]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/GDPRvsCLOUDact.png" onclick="openModal(this.id)" alt="GDPRvsCLOUDact" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;strong>GDPR&lt;/strong>: protect personal data, valid for all companies operating in the EU, fines at non-compliance&lt;/p>
@@ -148,7 +148,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[224 64 294 390 194 202]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale-compliance.png" onclick="openModal(this.id)" alt="exoscale-compliance" 
+ &lt;img id="[429 433 180 342 324 99]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale-compliance.png" onclick="openModal(this.id)" alt="exoscale-compliance" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Benefits</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/benefits/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/benefits/</guid><description>&lt;h3 id="cloud-automation" class="heading-link">
  &lt;strong>Cloud Automation&lt;/strong>
@@ -165,7 +165,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[401 221 205 378 474 181]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud-auto.png" onclick="openModal(this.id)" alt="cloud-auto" 
+ &lt;img id="[105 324 430 323 169 451]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/cloud-auto.png" onclick="openModal(this.id)" alt="cloud-auto" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Community</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/community/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/community/</guid><description>&lt;h3 id="documentation" class="heading-link">
  &lt;strong>Documentation&lt;/strong>
@@ -195,7 +195,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[487 336 111 472 43 48]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale-community.png" onclick="openModal(this.id)" alt="exoscale-community" 
+ &lt;img id="[487 283 42 107 231 306]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale-community.png" onclick="openModal(this.id)" alt="exoscale-community" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Integrations</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/integrations/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/integrations/</guid><description>&lt;h3 id="available-for-exoscale" class="heading-link">
  &lt;strong>Available for Exoscale&lt;/strong>
@@ -210,7 +210,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[123 53 89 124 354 434]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/integration.png" onclick="openModal(this.id)" alt="integration" 
+ &lt;img id="[194 275 189 453 198 332]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/integration.png" onclick="openModal(this.id)" alt="integration" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -237,7 +237,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[342 48 385 420 304 278]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/ref-cern.png" onclick="openModal(this.id)" alt="ref-cern" 
+ &lt;img id="[13 227 408 388 451 350]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/ref-cern.png" onclick="openModal(this.id)" alt="ref-cern" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;ul>
@@ -260,7 +260,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[142 87 351 185 392 397]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/ref-whalebone.png" onclick="openModal(this.id)" alt="ref-whalebone" 
+ &lt;img id="[36 190 115 437 192 183]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/starter/ref-whalebone.png" onclick="openModal(this.id)" alt="ref-whalebone" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Partner</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/partner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/starter/exoscale/content/partner/</guid><description>&lt;h3 id="cases" class="heading-link">
  &lt;strong>Cases&lt;/strong>
