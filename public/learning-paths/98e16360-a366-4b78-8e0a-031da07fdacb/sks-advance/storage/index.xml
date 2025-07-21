@@ -37,7 +37,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[6 110 88 121 195 371]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[160 163 320 379 445 383]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>Longhorn is a technology that enables local, non-persistent storage provided by the worker nodes as highly available storage for stateful applications with the need for persistent storage, e.g., a database.&lt;/p>
@@ -49,7 +49,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[371 333 185 209 259 428]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn2.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[43 500 392 476 290 442]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn2.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -80,7 +80,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[70 363 165 294 169 53]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn-praxis.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[83 223 285 67 118 241]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-advance/longhorn-praxis.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
