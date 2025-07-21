@@ -12,7 +12,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[308 333 359 231 429 327]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes3.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[474 258 395 167 20 434]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes3.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;strong>Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services that facilitates both automation and declarative configuration.&lt;/strong>&lt;/p></description></item><item><title>Imperative vs Declarative</title><link>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-kubernetes/kubernetes-details/content/imperative-vs-declarative/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb/intro-kubernetes/kubernetes-details/content/imperative-vs-declarative/</guid><description>&lt;h3 id="configuration-differences" class="heading-link">
@@ -32,7 +32,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[408 184 101 497 134 375]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/features.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[234 77 334 217 385 108]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/features.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -65,7 +65,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[447 46 147 408 70 234]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes4.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[7 339 197 404 196 126]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/kubernetes4.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
