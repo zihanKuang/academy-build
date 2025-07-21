@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Advance Concepts of Service Meshes on Layer5 Academy</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/</link><description>Recent content in Advance Concepts of Service Meshes on Layer5 Academy</description><generator>Hugo</generator><language>en</language><atom:link href="https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started with Istio</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/getting-started/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/getting-started/</guid><description>&lt;div class="chapter-content">
- &lt;h2 class="chapter-sub-heading">Setup Istio &lt;/h2>
+ 
+&lt;h3 id="setup-istio" class="heading-link">
+ &lt;strong>Setup Istio&lt;/strong>
+ &lt;a href="#setup-istio" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Now that we have a Kubernetes cluster and Meshery, we are ready to download and deploy Istio resources.&lt;/p>
-&lt;h2 class="chapter-sub-heading">Steps&lt;/h2>
+
+&lt;h3 id="steps" class="heading-link">
+ &lt;strong>Steps&lt;/strong>
+ &lt;a href="#steps" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;ol>
 &lt;li>&lt;a href="https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/getting-started/#1">Install Istio&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/getting-started/#2">Verify install&lt;/a>&lt;/li>
@@ -12,40 +20,35 @@
 &lt;li>&lt;a href="https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/getting-started/#1.2">Setup &lt;code>istioctl&lt;/code>&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/getting-started/#1.3">Install istio&lt;/a>&lt;/li>
 &lt;/ol>
-&lt;h3 class="chapter-sub-heading">
- &lt;a name="1">Install Istio&lt;/a>
-&lt;/h3>
-&lt;p>Using Meshery, select &lt;code>Istio&lt;/code> from the &lt;code>Management&lt;/code> menu.&lt;/p>
-&lt;p>In the Istio management page:&lt;/p>
-&lt;ol>
-&lt;li>Type &lt;code>istio-system&lt;/code> into the namespace field.&lt;/li>
-&lt;li>Click the (+) icon on the &lt;code>Install&lt;/code> card and select &lt;code>Latest Istio&lt;/code> to install the latest version of Istio.&lt;/li>
-&lt;/ol>
-&lt;h3>Alternative:Manual installation&lt;/h3>
-Perform the below steps if the above steps doesn't work for you.
-&lt;br />
-&lt;br />
-&lt;h4 class="chapter-alt-heading">
- &lt;a name="1.1">Download Istio&lt;/a>
+
+&lt;h4 id="install-istio" class="heading-link">
+ &lt;strong>Install Istio&lt;/strong>
+ &lt;a href="#install-istio" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
 &lt;/h4>
-&lt;p>You will download and deploy the latest Istio resources on your Kubernetes cluster.&lt;/p></description></item><item><title>Deploy a sample application</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/deploy-an-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/deploy-an-application/</guid><description>&lt;div class="chapter-content">
+&lt;p>Using Meshery, select &lt;code>Istio&lt;/code> from the &lt;code>Management&lt;/code> menu.&lt;/p>
+&lt;p>In the Istio management page:&lt;/p></description></item><item><title>Deploy a sample application</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/deploy-an-application/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/deploy-an-application/</guid><description>&lt;div class="chapter-content">
  &lt;p>To play with Istio and demonstrate some of it&amp;rsquo;s capabilities, you will deploy the example BookInfo application, which is included the Istio package.&lt;/p>
-&lt;h2 class="chapter-sub-heading">What is the Bookinfo Application &lt;/h2>
-&lt;br />
-This application is a polyglot composition of microservices are written in different
+
+&lt;h3 id="what-is-the-bookinfo-application" class="heading-link">
+ &lt;strong>What is the Bookinfo Application&lt;/strong>
+ &lt;a href="#what-is-the-bookinfo-application" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>This application is a polyglot composition of microservices are written in different
 languages and sample BookInfo application displays information about a book, similar to a
 single catalog entry of an online book store. Displayed on the page is a description of
-the book, book details (ISBN, number of pages, and so on), and a few book reviews.
-&lt;p>The end-to-end architecture of the application is shown in the figure.&lt;/p></description></item><item><title>Expose services through Istio Ingress Gateway</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/expose-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/expose-services/</guid><description>&lt;div class="chapter-content">
+the book, book details (ISBN, number of pages, and so on), and a few book reviews.&lt;/p></description></item><item><title>Expose services through Istio Ingress Gateway</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/expose-services/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/expose-services/</guid><description>&lt;div class="chapter-content">
  &lt;p>The components deployed on the service mesh by default are not exposed outside the cluster. An Ingress Gateway is deployed as a Kubernetes service of type LoadBalancer (or NodePort). To make Bookinfo accessible external to the cluster, you have to create an &lt;code>Istio Gateway&lt;/code> for the Bookinfo application and also define an &lt;code>Istio VirtualService&lt;/code> with the routes we need.&lt;/p>
-&lt;br />
-&lt;br />
-&lt;h2 class="chapter-sub-heading"> Inspecting the Istio Ingress Gateway&lt;/h2>
-&lt;br />
-The ingress gateway gets exposed as a normal Kubernetes service of type LoadBalancer (or NodePort):
-&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>kubectl get svc istio-ingressgateway -n istio-system -o yaml
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Because the Istio Ingress Gateway is an Envoy Proxy you can inspect it using the admin routes. First find the name of the istio-ingressgateway:&lt;/p></description></item><item><title>Service Security Capabilities of Istio</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/service-security-capabilities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/service-security-capabilities/</guid><description>&lt;div class="chapter-content">
- &lt;h2 class="chapter-sub-heading">Access Control&lt;/h2>
+
+&lt;h3 id="inspecting-the-istio-ingress-gateway" class="heading-link">
+ &lt;strong>Inspecting the Istio Ingress Gateway&lt;/strong>
+ &lt;a href="#inspecting-the-istio-ingress-gateway" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
+&lt;p>The ingress gateway gets exposed as a normal Kubernetes service of type LoadBalancer (or NodePort):&lt;/p></description></item><item><title>Service Security Capabilities of Istio</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/service-security-capabilities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/service-security-capabilities/</guid><description>&lt;div class="chapter-content">
+ 
+&lt;h3 id="access-control" class="heading-link">
+ &lt;strong>Access Control&lt;/strong>
+ &lt;a href="#access-control" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>You will start by denying all traffic.&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">apiVersion&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">security.istio.io/v1beta1&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">kind&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">AuthorizationPolicy&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
@@ -53,9 +56,11 @@ The ingress gateway gets exposed as a normal Kubernetes service of type LoadBala
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">name&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">deny-all&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">namespace&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">default&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">spec&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>{}&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 class="chapter-sub-heading">
- And then begin poking holes in your service mesh "firewall".
-&lt;/h3>
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h4 id="and-then-begin-poking-holes-in-your-service-mesh" class="heading-link">
+ &lt;strong>And then begin poking holes in your service mesh &amp;ldquo;firewall&amp;rdquo;.&lt;/strong>
+ &lt;a href="#and-then-begin-poking-holes-in-your-service-mesh" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000">---&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">apiVersion&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#4e9a06">&amp;#34;security.istio.io/v1beta1&amp;#34;&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">kind&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#4e9a06">&amp;#34;AuthorizationPolicy&amp;#34;&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
@@ -70,7 +75,11 @@ The ingress gateway gets exposed as a normal Kubernetes service of type LoadBala
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>- &lt;span style="color:#204a87;font-weight:bold">to&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>- &lt;span style="color:#204a87;font-weight:bold">operation&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">methods&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000;font-weight:bold">[&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;GET&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">]&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 class="chapter-sub-heading">Create AuthorizationPolicy for each BookInfo service.&lt;/h3>
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h4 id="create-authorizationpolicy-for-each-bookinfo-service" class="heading-link">
+ &lt;strong>Create AuthorizationPolicy for each BookInfo service.&lt;/strong>
+ &lt;a href="#create-authorizationpolicy-for-each-bookinfo-service" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000">---&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">apiVersion&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#4e9a06">&amp;#34;security.istio.io/v1beta1&amp;#34;&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">kind&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#4e9a06">&amp;#34;AuthorizationPolicy&amp;#34;&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
@@ -136,7 +145,11 @@ The ingress gateway gets exposed as a normal Kubernetes service of type LoadBala
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">to&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>- &lt;span style="color:#204a87;font-weight:bold">operation&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">methods&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000;font-weight:bold">[&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;GET&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">,&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#4e9a06">&amp;#34;POST&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">]&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 class="chapter-sub-heading">Allow per user access&lt;/h3>
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h4 id="allow-per-user-access" class="heading-link">
+ &lt;strong>Allow per user access&lt;/strong>
+ &lt;a href="#allow-per-user-access" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000">---&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">apiVersion&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#4e9a06">&amp;#34;security.istio.io/v1beta1&amp;#34;&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">kind&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#4e9a06">&amp;#34;AuthorizationPolicy&amp;#34;&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
@@ -157,7 +170,11 @@ The ingress gateway gets exposed as a normal Kubernetes service of type LoadBala
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">when&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>- &lt;span style="color:#204a87;font-weight:bold">key&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">request.headers[end-user]&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">values&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000;font-weight:bold">[&lt;/span>&lt;span style="color:#4e9a06">&amp;#34;naruto&amp;#34;&lt;/span>&lt;span style="color:#000;font-weight:bold">]&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 class="chapter-sub-heading">Reset BookInfo Subsets (reset destination rules)&lt;/h3>
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h4 id="reset-bookinfo-subsets-reset-destination-rules" class="heading-link">
+ &lt;strong>Reset BookInfo Subsets (reset destination rules)&lt;/strong>
+ &lt;a href="#reset-bookinfo-subsets-reset-destination-rules" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h4>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#204a87;font-weight:bold">apiVersion&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">networking.istio.io/v1alpha3&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">kind&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">DestinationRule&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#204a87;font-weight:bold">metadata&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
@@ -220,14 +237,18 @@ The ingress gateway gets exposed as a normal Kubernetes service of type LoadBala
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">labels&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#204a87;font-weight:bold">version&lt;/span>&lt;span style="color:#000;font-weight:bold">:&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline"> &lt;/span>&lt;span style="color:#000">v2&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f8f8f8;text-decoration:underline">&lt;/span>&lt;span style="color:#000">---&lt;/span>&lt;span style="color:#f8f8f8;text-decoration:underline">
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 class="chapter-sub-heading">Identity Verification&lt;/h2>
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
+&lt;h3 id="identity-verification" class="heading-link">
+ &lt;strong>Identity Verification&lt;/strong>
+ &lt;a href="#identity-verification" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Note: this lab uses the sample application HTTPbin.&lt;/p></description></item><item><title>WebAssembly and Intelligent Data Planes</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/webassembly-and-intelligent-data-planes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/webassembly-and-intelligent-data-planes/</guid><description>&lt;div class="chapter-content">
  &lt;p>In this lab, you will use the sample application &lt;a href="https://github.com/layer5io/image-hub">Image Hub&lt;/a>. This version of the Image Hub filter has been simplified for your lab. To self-study deeper functionality, try the other version of the Image Hub filter that is available in the Image Hub repo.&lt;/p>
 
-&lt;h2 id="deploy-sample-application" class="heading-link">
+&lt;h3 id="deploy-sample-application" class="heading-link">
  Deploy Sample Application
  &lt;a href="#deploy-sample-application" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
-&lt;/h2>
+&lt;/h3>
 &lt;p>Using Meshery, select Istio from the Management menu.&lt;/p>
 &lt;p>In the Istio management page:&lt;/p>
 &lt;ol>
@@ -237,10 +258,10 @@ The ingress gateway gets exposed as a normal Kubernetes service of type LoadBala
 &lt;br />
 &lt;br />
 
-&lt;h2 id="load-the-filter" class="heading-link">
+&lt;h3 id="load-the-filter" class="heading-link">
  Load the filter
  &lt;a href="#load-the-filter" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
-&lt;/h2>
+&lt;/h3>
 &lt;p>Next, load the custom Envoy filter. This filter is written in Rust and is compiled against WebAssembly as it&amp;rsquo;s target runtime.&lt;/p></description></item><item><title>Conclusion</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/conclusion/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/conclusion/</guid><description>&lt;div class="chapter-content">
  &lt;br />
 
@@ -255,7 +276,11 @@ The ingress gateway gets exposed as a normal Kubernetes service of type LoadBala
 &lt;/h5>
 
 &lt;/div></description></item><item><title>Observability with Istio</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/observability/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-service-meshes-for-developers/advance-concepts-of-service-meshes/observability/</guid><description>&lt;div class="chapter-content">
- &lt;h2 class="chapter-sub-heading">Install Telemetry Add-ons&lt;/h2>
+ 
+&lt;h3 id="install-telemetry-add-ons" class="heading-link">
+ &lt;strong>Install Telemetry Add-ons&lt;/strong>
+ &lt;a href="#install-telemetry-add-ons" class="heading-anchor" aria-label="Permalink to this heading">🔗&lt;/a>
+&lt;/h3>
 &lt;p>Using Meshery, install Istio telemetry add-ons. In the Istio management page:&lt;/p>
 &lt;ol>
 &lt;li>Click the (+) icon on the &lt;code>Apply Service Mesh Configuration&lt;/code> card.&lt;/li>
@@ -267,6 +292,4 @@ The ingress gateway gets exposed as a normal Kubernetes service of type LoadBala
 &lt;/ol>
 &lt;/li>
 &lt;/ol>
-&lt;p>You will use Prometheus and Grafana for collecting and viewing metrics and &lt;a href="https://www.jaegertracing.io/">Jaeger&lt;/a> collecting and viewing distributed traces. Expose each add-on external to the cluster. Each the service network typs are set to &amp;ldquo;LoadBalancer&amp;rdquo;.&lt;/p>
-&lt;h2 class="chapter-sub-heading">Service Mesh Performance and Telemetry&lt;/h2>
-&lt;p>Many of the labs require load to be placed on the sample apps. Let&amp;rsquo;s generate HTTP traffic against the BookInfo application, so we can see interesting telemetry.&lt;/p></description></item></channel></rss>
+&lt;p>You will use Prometheus and Grafana for collecting and viewing metrics and &lt;a href="https://www.jaegertracing.io/">Jaeger&lt;/a> collecting and viewing distributed traces. Expose each add-on external to the cluster. Each the service network typs are set to &amp;ldquo;LoadBalancer&amp;rdquo;.&lt;/p></description></item></channel></rss>
