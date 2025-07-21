@@ -22,7 +22,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[52 242 418 363 48 129]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/benefit1.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[148 343 359 179 181 405]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/benefit1.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;ul>
@@ -36,7 +36,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[376 455 296 242 19 213]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/benefit2.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[393 237 360 282 342 37]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/benefit2.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;ul>
@@ -53,7 +53,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[60 446 149 386 240 314]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/history.png" onclick="openModal(this.id)" alt="image" 
+ &lt;img id="[421 402 389 193 169 469]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-k8/history.png" onclick="openModal(this.id)" alt="image" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
