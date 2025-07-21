@@ -96,7 +96,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[242 1 88 381 253 250]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/container.png" onclick="openModal(this.id)" alt="container" 
+ &lt;img id="[199 136 292 98 334 130]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/container.png" onclick="openModal(this.id)" alt="container" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -160,7 +160,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[87 31 14 273 212 307]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-build.png" onclick="openModal(this.id)" alt="docker-build" 
+ &lt;img id="[66 275 326 490 446 55]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-build.png" onclick="openModal(this.id)" alt="docker-build" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>docker run
@@ -173,7 +173,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[61 91 361 139 363 194]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-run.png" onclick="openModal(this.id)" alt="docker-run" 
+ &lt;img id="[214 7 310 11 178 59]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/sks-starter/docker-run.png" onclick="openModal(this.id)" alt="docker-run" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
