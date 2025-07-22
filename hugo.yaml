@@ -62,8 +62,8 @@ markup:
       unsafe: true
   highlight:
     # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
-    style: tango
-    # Uncomment if you want your chosen highlight style used for code blocks without a specified language
+    noClasses: false
+    style: github     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
     # guessSyntax: true
 
 # Everything below this are Site Params
@@ -173,8 +173,6 @@ module:
     extended: true
     min: 0.146.0
   imports:
-    - path: github.com/google/docsy
-      disable: false
 
     - path: github.com/layer5io/academy-theme
 
@@ -188,7 +186,7 @@ module:
         - source: assets
           target: assets
           disableWatch: false
-        
+
         - source: static
           target: static
           disableWatch: false
