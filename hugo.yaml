@@ -70,7 +70,7 @@ markup:
 
 # Comment out if you don't want the "print entire section" link enabled.
 outputs:
-  section: [HTML, print, RSS, JSON]
+  section: [HTML, JSON]
 
 params:
   taxonomy:
@@ -112,10 +112,10 @@ params:
   github_branch: main
 
   # Google Custom Search Engine ID. Remove or comment out to disable search.
-  gcs_engine_id: d72aa9b2712488cc3
+  # gcs_engine_id: d72aa9b2712488cc3
 
   # Enable Lunr.js offline search
-  offlineSearch: false
+  offlineSearch: true
 
   # Enable syntax highlighting and copy buttons on code blocks with Prism
   prism_syntax_highlighting: false
@@ -183,6 +183,14 @@ module:
       mounts:
         - source: layouts
           target: layouts
+          disableWatch: false
+
+        - source: assets/scss
+          target: assets/scss
+          disableWatch: false
+        
+        - source: static
+          target: static
           disableWatch: false
 
 
