@@ -216,9 +216,9 @@ module:
         - source: content/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb
           target: content/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb
           disableWatch: false
-       - source: content/challenges/98e16360-a366-4b78-8e0a-031da07fdacb
-         target: content/challenges/98e16360-a366-4b78-8e0a-031da07fdacb
-         disableWatch: false
+        - source: content/challenges/98e16360-a366-4b78-8e0a-031da07fdacb
+          target: content/challenges/98e16360-a366-4b78-8e0a-031da07fdacb
+          disableWatch: false
         - source: layouts/shortcodes/98e16360-a366-4b78-8e0a-031da07fdacb
           target: layouts/shortcodes/98e16360-a366-4b78-8e0a-031da07fdacb
           disableWatch: false
