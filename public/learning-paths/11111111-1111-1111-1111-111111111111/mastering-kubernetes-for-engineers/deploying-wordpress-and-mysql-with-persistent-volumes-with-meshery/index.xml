@@ -17,7 +17,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[321 348 105 206 171 476]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp1.png" onclick="openModal(this.id)" alt="wp1" 
+ &lt;img id="[220 363 165 327 272 490]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp1.png" onclick="openModal(this.id)" alt="wp1" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;em>Figure: Import modal&lt;/em>&lt;/p>
@@ -33,7 +33,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[267 154 394 135 422 160]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp2.png" onclick="openModal(this.id)" alt="wp2" 
+ &lt;img id="[31 250 53 85 341 407]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp2.png" onclick="openModal(this.id)" alt="wp2" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Create and Configure Kubernetes Components</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/configure-components/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/configure-components/</guid><description>&lt;h3 id="create-and-configure-secret-for-mysql-database" class="heading-link">
  &lt;strong>Create and Configure Secret for MySQL Database&lt;/strong>
@@ -66,7 +66,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[149 40 97 411 77 200]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp14.png" onclick="openModal(this.id)" alt="wp14" 
+ &lt;img id="[488 496 327 403 288 471]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp14.png" onclick="openModal(this.id)" alt="wp14" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p></description></item><item><title>Validate and Deploy Resources</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/deploy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/deploy/</guid><description>&lt;h3 id="deploy-the-resources" class="heading-link">
  &lt;strong>Deploy the Resources&lt;/strong>
@@ -83,7 +83,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[120 443 85 495 281 457]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp15.png" onclick="openModal(this.id)" alt="wp15" 
+ &lt;img id="[187 80 148 6 435 62]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp15.png" onclick="openModal(this.id)" alt="wp15" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;em>Figure: Actions dropdown menu&lt;/em>&lt;/p>
@@ -98,7 +98,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[249 110 383 133 365 158]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp16.png" onclick="openModal(this.id)" alt="wp16" 
+ &lt;img id="[364 363 50 130 195 188]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp16.png" onclick="openModal(this.id)" alt="wp16" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;em>Figure: Validate design&lt;/em>&lt;/p>
@@ -113,7 +113,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[489 421 434 101 129 12]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp17.png" onclick="openModal(this.id)" alt="wp17" 
+ &lt;img id="[443 206 57 355 115 298]" src="https://cloud.layer5.io/academy/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/wp17.png" onclick="openModal(this.id)" alt="wp17" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;p>&lt;em>Figure: Choose deployment Environment&lt;/em>&lt;/p></description></item><item><title>Visualize Deployed Resources</title><link>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/visualize/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cloud.layer5.io/academy/learning-paths/11111111-1111-1111-1111-111111111111/mastering-kubernetes-for-engineers/deploying-wordpress-and-mysql-with-persistent-volumes-with-meshery/sql/visualize/</guid><description>&lt;h3 id="visualizing-the-deployed-resources" class="heading-link">
