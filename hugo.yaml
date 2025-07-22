@@ -185,8 +185,8 @@ module:
           target: layouts
           disableWatch: false
 
-        - source: assets/scss
-          target: assets/scss
+        - source: assets
+          target: assets
           disableWatch: false
         
         - source: static
