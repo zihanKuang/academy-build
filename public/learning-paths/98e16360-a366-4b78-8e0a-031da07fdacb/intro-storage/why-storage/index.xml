@@ -11,7 +11,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[25 325 422 181 288 495]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit1-storage-color.jpg" onclick="openModal(this.id)" alt="storage" 
+ &lt;img id="[456 311 282 330 174 449]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit1-storage-color.jpg" onclick="openModal(this.id)" alt="storage" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 
@@ -31,7 +31,7 @@
 
 
 &lt;div class="md__image">
- &lt;img id="[113 439 60 233 404 224]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit2-criteria.png" onclick="openModal(this.id)" alt="storage" 
+ &lt;img id="[48 265 330 166 57 232]" src="https://cloud.layer5.io/academy/98e16360-a366-4b78-8e0a-031da07fdacb/intro-storage/sec3-sub1-unit2-criteria.png" onclick="openModal(this.id)" alt="storage" 
  class="md-image-responsive" />
 &lt;/div>&lt;/p>
 &lt;table>
