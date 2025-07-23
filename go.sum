@@ -1,8 +1,8 @@
 github.com/FortAwesome/Font-Awesome v0.0.0-20241216213156-af620534bfc3/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
 github.com/google/docsy v0.12.0/go.mod h1:1bioDqA493neyFesaTvQ9reV0V2vYy+xUAnlnz7+miM=
 github.com/layer5io/academy-theme v0.1.10/go.mod h1:kAidN16xIX6Dx2TBz7y0u3DeU8UnfUcoQZ/rVogXN80=
-github.com/layer5io/academy-theme v0.1.14 h1:WLYIrrKrWAPwwbkG9WWavtDsGOK2HpwhTMh1QMw0R3I=
-github.com/layer5io/academy-theme v0.1.14/go.mod h1:kAidN16xIX6Dx2TBz7y0u3DeU8UnfUcoQZ/rVogXN80=
+github.com/layer5io/academy-theme v0.1.15 h1:cDIOgNOM8qF6o4HVLnQnhyWBpTaaVvUz+ANJzwcTfLA=
+github.com/layer5io/academy-theme v0.1.15/go.mod h1:kAidN16xIX6Dx2TBz7y0u3DeU8UnfUcoQZ/rVogXN80=
 github.com/layer5io/exoscale-academy v0.3.2 h1:zs1qvrpUqLuja7cdXJuD2IZbUev4T6DKbJmpgJqvKh0=
 github.com/layer5io/exoscale-academy v0.3.2/go.mod h1:1S4qs8cy686HvTkvvZt+yhyi3Ey6SRREmPQsl+s7Cxw=
 github.com/layer5io/hugo-academy-theme v0.0.0-20250715053027-36f46b5c4741/go.mod h1:Kp2xgJUAqGztDN/j6T30ApwSaK1Yxs1IvrSgOoRFKnI=
