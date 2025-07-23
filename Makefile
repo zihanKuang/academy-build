@@ -18,7 +18,7 @@ include .github/build/Makefile-show-help.mk
 #----------------------------------------------------------------------------
 # Academy
 # ---------------------------------------------------------------------------
-.PHONY: academy-setup academy-dev academy-staging academy-prod update-module
+.PHONY: academy-setup academy-dev academy-staging academy-prod update-module academy-update
 
 ## Install site dependencies
 academy-setup:
@@ -55,3 +55,7 @@ sync-with-cloud:
 	rm -rf ../meshery-cloud/academy
 	mkdir -p ../meshery-cloud/academy
 	rsync -av --delete public/ ../meshery-cloud/academy/
+
+## Update the academy-theme package to latest version
+academy-update:
+	hugo mod get -u
