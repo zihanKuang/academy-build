@@ -26,4 +26,5 @@ node_modules/
 # Output of sitemap generation
 /ui/public/sitemap.xml
 node_modules/
+public/
 .hugo_build.lock

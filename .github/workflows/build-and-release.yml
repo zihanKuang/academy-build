@@ -58,17 +58,17 @@ jobs:
       - name: Build Academy
         run: make academy-prod
 
-      - name: Pull changes from self master
-        run: git pull origin master
+      # - name: Pull changes from self master
+      #   run: git pull origin master
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: Build Academy
-          commit_options: '--signoff'
-          branch: master
-          commit_user_name: l5io
-          commit_user_email: l5io@layer5.io  
-          commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+      # - uses: stefanzweifel/git-auto-commit-action@v5
+      #   with:
+      #     commit_message: Build Academy
+      #     commit_options: '--signoff'
+      #     branch: master
+      #     commit_user_name: l5io
+      #     commit_user_email: l5io@layer5.io  
+      #     commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
 
       - name: Checkout meshery-cloud repo
         uses: actions/checkout@v4
