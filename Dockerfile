@@ -19,5 +19,5 @@ RUN hugo version && go version && node -v && npm -v
 COPY . .
 
 # Build Academy pages
-RUN make academy-setup
-RUN make academy-prod
+RUN make setup
+RUN make prod-build

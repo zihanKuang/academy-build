@@ -50,13 +50,13 @@ jobs:
           fi
 
           echo "✅ Found module for orgId '$ORG_ID': $MODULE"
-          make update-module module="$MODULE" version="$VERSION"
+          make theme-update module="$MODULE" version="$VERSION"
 
       - name: Install dependencies
-        run: make academy-setup
+        run: make setup
 
       - name: Build Academy
-        run: make academy-prod
+        run: make prod-build
 
       # - name: Pull changes from self master
       #   run: git pull origin master

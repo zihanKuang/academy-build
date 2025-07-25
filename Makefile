@@ -18,44 +18,47 @@ include .github/build/Makefile-show-help.mk
 #----------------------------------------------------------------------------
 # Academy
 # ---------------------------------------------------------------------------
-.PHONY: academy-setup academy-dev academy-staging academy-prod update-module academy-update
+.PHONY: setup build stg-build prod-build theme-update sync-with-cloud site
 
-## Install site dependencies
-academy-setup:
+## ------------------------------------------------------------
+----LOCAL_BUILDS: Show help for available targets
+	
+## Local: Install site dependencies
+setup:
 	 npm i
 
-## Build site using Layer5 Cloud as the baseURL
-academy-prod:
-	 hugo  --cleanDestinationDir --gc --minify --baseURL "https://cloud.layer5.io/academy"
-
-## Build site using Layer5 Cloud Staging as the baseURL
-academy-staging:
-	 hugo --cleanDestinationDir --gc --minify --baseURL "https://staging-cloud.layer5.io/academy"
-
-## Build site for local consumption
-academy-dev:
+## Local: Build site for local consumption
+build:
 	hugo build
 
-## Build and run site locally
-academy-dev-live:
+## Local: Build and run site locally
+site:
 	hugo serve
 
-## Upgrade site's theme to latest version
-## Change to "theme-upgrade"
-update-module:
-	@if [ -z "$(module)" ] || [ -z "$(version)" ]; then \
-		echo "Usage: make update-module module=<module-path> version=<version>"; \
-		exit 1; \
-	fi && \
-	echo "Updating Hugo module: $(module) to version $(version)" && \
-	hugo mod get $(module)@$(version)
+## ------------------------------------------------------------
+----REMOTE_BUILDS: Show help for available targets
 
-## Publish Academy build to Layer5 Cloud
+## Build site using Layer5 Cloud Staging as the baseURL
+stg-build:
+	 hugo --cleanDestinationDir --gc --minify --baseURL "https://staging-cloud.layer5.io/academy"
+
+## Build site using Layer5 Cloud as the baseURL
+prod-build:
+	 hugo  --cleanDestinationDir --gc --minify --baseURL "https://cloud.layer5.io/academy"
+
+
+## ------------------------------------------------------------
+----MAINTENANCE: Show help for available targets
+
+## Update the academy-theme package to latest version
+theme-update:
+	echo "Updating to latest academy-theme..." && \
+	hugo mod get -u
+
+## Publish Academy build to Layer5 Cloud.
+## Copy built site from public/ to 
+## ../meshery-cloud/academy directory
 sync-with-cloud:
 	rm -rf ../meshery-cloud/academy
 	mkdir -p ../meshery-cloud/academy
 	rsync -av --delete public/ ../meshery-cloud/academy/
-
-## Update the academy-theme package to latest version
-academy-update:
-	hugo mod get -u
