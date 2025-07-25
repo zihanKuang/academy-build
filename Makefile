@@ -31,9 +31,9 @@ setup:
 build:
 	hugo build
 
-## Local: Build and run site locally
-site:
-	hugo serve
+## Local: Build and run site locally with draft and future content enabled.
+site: check-go
+	hugo server -D -F
 
 ## ------------------------------------------------------------
 ----REMOTE_BUILDS: Show help for available targets
@@ -49,6 +49,11 @@ prod-build:
 
 ## ------------------------------------------------------------
 ----MAINTENANCE: Show help for available targets
+
+check-go:
+	@echo "Checking if Go is installed..."
+	@command -v go > /dev/null || (echo "Go is not installed. Please install it before proceeding."; exit 1)
+	@echo "Go is installed."
 
 ## Update the academy-theme package to latest version
 theme-update:
