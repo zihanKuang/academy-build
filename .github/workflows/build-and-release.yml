@@ -50,7 +50,7 @@ jobs:
           fi
 
           echo "✅ Found module for orgId '$ORG_ID': $MODULE"
-          make update-module module="$MODULE" version="$VERSION"
+          make theme-update module="$MODULE" version="$VERSION"
 
       - name: Install dependencies
         run: make setup
