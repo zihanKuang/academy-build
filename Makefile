@@ -18,18 +18,18 @@ include .github/build/Makefile-show-help.mk
 #----------------------------------------------------------------------------
 # Academy
 # ---------------------------------------------------------------------------
-.PHONY: academy-setup academy-dev academy-staging academy-prod update-module
+.PHONY: setup academy-dev staging-build prod-build update-module
 
 ## Install site dependencies
-academy-setup:
+setup:
 	 npm i
 
 ## Build site using Layer5 Cloud as the baseURL
-academy-prod:
+prod-build:
 	 hugo  --cleanDestinationDir --gc --minify --baseURL "https://cloud.layer5.io/academy"
 
 ## Build site using Layer5 Cloud Staging as the baseURL
-academy-staging:
+staging-build:
 	 hugo --cleanDestinationDir --gc --minify --baseURL "https://staging-cloud.layer5.io/academy"
 
 ## Build site for local consumption
@@ -37,7 +37,7 @@ academy-dev:
 	hugo build
 
 ## Build and run site locally
-academy-dev-live:
+site:
 	hugo serve
 
 ## Upgrade site's theme to latest version
