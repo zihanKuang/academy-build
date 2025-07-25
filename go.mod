@@ -2,6 +2,7 @@ module github.com/layer5io/academy
 
 go 1.24.5
 
+
 require github.com/FortAwesome/Font-Awesome v0.0.0-20241216213156-af620534bfc3
 
 require (
