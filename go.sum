@@ -8,6 +8,8 @@ github.com/layer5io/academy-theme v0.1.20 h1:+FvUnCh3WSLC94gyU7mSGWdsVc0nHqf3/Td
 github.com/layer5io/academy-theme v0.1.20/go.mod h1:Dv72UWsREOvX4Zg4mJjrpoyDxdgxxpiDotxqYBXMjXo=
 github.com/layer5io/academy-theme v0.1.21 h1:MoN+Id/leceKRYpymwU6BIeBGOgGNSMa+1aHOD1cgM4=
 github.com/layer5io/academy-theme v0.1.21/go.mod h1:Dv72UWsREOvX4Zg4mJjrpoyDxdgxxpiDotxqYBXMjXo=
+github.com/layer5io/academy-theme v0.1.22 h1:VuK76mZFlM754M2J671Of9gwiE5k+QhyCIbnCNkrT2U=
+github.com/layer5io/academy-theme v0.1.22/go.mod h1:Dv72UWsREOvX4Zg4mJjrpoyDxdgxxpiDotxqYBXMjXo=
 github.com/layer5io/exoscale-academy v0.3.8 h1:+IIOuJY406i0HdCDw5wfNZZ9TJnkYfGBmHkFznK7YgY=
 github.com/layer5io/exoscale-academy v0.3.8/go.mod h1:dqbtuMIJgT0NVqn52u7/NKBNZZ3KZJHJbiP7ZlISU2k=
 github.com/layer5io/exoscale-academy v0.3.9 h1:ZK/k7mu+J9l3XeUfWg1JrGhhGBEX71NoQAY9stZCvYE=
