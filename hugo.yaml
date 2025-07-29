@@ -64,11 +64,8 @@ markup:
     style: github     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
     # guessSyntax: true
 
-# Everything below this are Site Params
-
-# Comment out if you don't want the "print entire section" link enabled.
-# outputs:
-#   section: [HTML, JSON]
+ outputs:
+   section: [HTML, JSON]
 
 params:
   taxonomy:
