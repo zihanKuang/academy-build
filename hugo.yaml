@@ -64,6 +64,7 @@ markup:
     style: github     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
     # guessSyntax: true
 
+# It configures Hugo to render both index.html(web page) and index.json(metadata) files for each section of your site.
 outputs:
    section: [HTML, JSON]
 
