@@ -76,7 +76,7 @@ params:
     taxonomyCloud: [tags, categories]
 
     # If used, must have same length as taxonomyCloud
-    taxonomyCloudTitle: [Tag, Categories]
+    taxonomyCloudTitle: [Tags, Categories]
 
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
