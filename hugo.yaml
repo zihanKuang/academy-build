@@ -51,8 +51,6 @@ languages:
     params:
       description: A Docsy example site
 
-
-
 markup:
   goldmark:
     parser:
@@ -62,15 +60,12 @@ markup:
       unsafe: true
   highlight:
     # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
-    style: tango
-    # Uncomment if you want your chosen highlight style used for code blocks without a specified language
+    noClasses: false
+    style: github     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
     # guessSyntax: true
 
-# Everything below this are Site Params
-
-# Comment out if you don't want the "print entire section" link enabled.
 outputs:
-  section: [HTML, print, RSS, JSON]
+   section: [HTML, JSON]
 
 params:
   taxonomy:
@@ -78,7 +73,7 @@ params:
     taxonomyCloud: [tags, categories]
 
     # If used, must have same length as taxonomyCloud
-    taxonomyCloudTitle: [Tag Cloud, Categories]
+    taxonomyCloudTitle: [Tags, Categories]
 
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
@@ -112,10 +107,10 @@ params:
   github_branch: main
 
   # Google Custom Search Engine ID. Remove or comment out to disable search.
-  gcs_engine_id: d72aa9b2712488cc3
+  # gcs_engine_id: d72aa9b2712488cc3
 
   # Enable Lunr.js offline search
-  offlineSearch: false
+  offlineSearch: true
 
   # Enable syntax highlighting and copy buttons on code blocks with Prism
   prism_syntax_highlighting: false
@@ -138,7 +133,7 @@ params:
     # Enable to show the side bar menu in its compact state.
     sidebar_menu_compact: true
     # ul_show: 1
-    sidebar_menu_foldable: true
+    sidebar_menu_foldable: false
 
     # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
     sidebar_search_disable: false
@@ -160,7 +155,7 @@ params:
     # If you want this feature, but occasionally need to remove the Reading time from a single page,
     # add "hide_readingtime: true" to the page's front matter
     readingtime:
-      enable: true
+      enable: false
 
   links:
     # End user relevant links. These will show up on left side of footer and in the community page if you have one.
@@ -173,8 +168,6 @@ module:
     extended: true
     min: 0.146.0
   imports:
-    - path: github.com/google/docsy
-      disable: false
 
     - path: github.com/layer5io/academy-theme
 
@@ -185,6 +178,14 @@ module:
           target: layouts
           disableWatch: false
 
+        - source: assets
+          target: assets
+          disableWatch: false
+
+        - source: static
+          target: static
+          disableWatch: false
+
 
     - path: github.com/layer5io/layer5-academy
       disable: false
@@ -192,6 +193,9 @@ module:
       mounts:
         - source: content/learning-paths/11111111-1111-1111-1111-111111111111
           target: content/learning-paths/11111111-1111-1111-1111-111111111111
+          disableWatch: false
+        - source: content/challenges/11111111-1111-1111-1111-111111111111
+          target: content/challenges/11111111-1111-1111-1111-111111111111
           disableWatch: false
         - source: layouts/shortcodes/11111111-1111-1111-1111-111111111111
           target: layouts/shortcodes/11111111-1111-1111-1111-111111111111
@@ -207,13 +211,15 @@ module:
         - source: content/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb
           target: content/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb
           disableWatch: false
+        - source: content/challenges/98e16360-a366-4b78-8e0a-031da07fdacb
+          target: content/challenges/98e16360-a366-4b78-8e0a-031da07fdacb
+          disableWatch: false
         - source: layouts/shortcodes/98e16360-a366-4b78-8e0a-031da07fdacb
           target: layouts/shortcodes/98e16360-a366-4b78-8e0a-031da07fdacb
           disableWatch: false
         - source: static/98e16360-a366-4b78-8e0a-031da07fdacb
           target: static/98e16360-a366-4b78-8e0a-031da07fdacb
           disableWatch: false
-
 
 
     - path: github.com/aabidsofi19/aabids-academy

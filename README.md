@@ -81,7 +81,7 @@ Always store the `token` input as a GitHub secret and **never hardcode it** in y
 
 ## 🧑‍💻 Maintained by [Layer5](https://layer5.io)
 
-💬 If you encounter issues or want to contribute, please open an issue or pull request at [github.com/layer5io/actions](https://github.com/layer5io/academy-build).
+💬 If you encounter issues or want to contribute, please open an issue or pull request at [github.com/layer5io/academy-build](https://github.com/layer5io/academy-build).
 
 ---
 
@@ -90,7 +90,7 @@ Always store the `token` input as a GitHub secret and **never hardcode it** in y
 To use this action from the [GitHub Marketplace](https://github.com/marketplace/actions), reference it like:
 
 ```
-uses: layer5io/academy-build@v1
+uses: layer5io/academy-build@master
 ```
 
 > Supports [composite run steps](https://docs.github.com/en/actions/creating-actions/creating-a-composite-action) – no runtime required.
