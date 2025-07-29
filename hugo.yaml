@@ -64,7 +64,7 @@ markup:
     style: github     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
     # guessSyntax: true
 
- outputs:
+outputs:
    section: [HTML, JSON]
 
 params:
