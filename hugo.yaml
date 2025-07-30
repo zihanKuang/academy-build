@@ -66,6 +66,8 @@ markup:
 
 outputs:
    section: [HTML, JSON]
+   page: [HTML, JSON]
+  
 
 params:
   taxonomy:
