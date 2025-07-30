@@ -60,6 +60,16 @@ theme-update:
 	echo "Updating to latest academy-theme..." && \
 	hugo mod get github.com/layer5io/academy-theme
 
+
+## Update a specific Hugo module to a specific version.
+update-module:
+	@if [ -z "$(module)" ] || [ -z "$(version)" ]; then \
+		echo "Usage: make update-module module=<module-path> version=<version>"; \
+		exit 1; \
+	fi && \
+	echo "Updating Hugo module: $(module) to version $(version)" && \
+	hugo mod get $(module)@$(version)
+
 ## Publish Academy build to Layer5 Cloud.
 ## Copy built site from public/ to 
 ## ../meshery-cloud/academy directory
