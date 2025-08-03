@@ -48,6 +48,8 @@ github.com/layer5io/exoscale-academy v0.5.2 h1:IQd5kfCV13FHZ4j/l2aMxJF78DTSrZrTN
 github.com/layer5io/exoscale-academy v0.5.2/go.mod h1:tJebpVNfj6kqvo0qEJUdJGV8igbIDfJyuFYgJyxc9NA=
 github.com/layer5io/exoscale-academy v0.5.3 h1:rlB0Sn67LbjE/ohhnYUasiQyusece6hI5jE0KfuUzKg=
 github.com/layer5io/exoscale-academy v0.5.3/go.mod h1:tJebpVNfj6kqvo0qEJUdJGV8igbIDfJyuFYgJyxc9NA=
+github.com/layer5io/exoscale-academy v0.5.4 h1:Nv50JXFDQK3ZpVtsmm5UXrx/WYr+08szP2gFNxhZlUE=
+github.com/layer5io/exoscale-academy v0.5.4/go.mod h1:mr4ETIZcCbglzhtwwMb5TROpjra4KBKTiYXcXbi5Uu8=
 github.com/layer5io/layer5-academy v0.2.2 h1:l6jAGtcntpHHz4BisUsHAJUD6ik0vKrnZO+ySlrkBAQ=
 github.com/layer5io/layer5-academy v0.2.2/go.mod h1:oXzz2zG5re4qo8vuuuFKQwfpTtfXUIfGly4Wv4uqYh0=
 github.com/layer5io/layer5-academy v0.2.4 h1:1RtR3hNyRS0XG+Nzlw6vG4YKBKAHz+sG+KYx3QO++Pg=
