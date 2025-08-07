@@ -74,5 +74,7 @@ github.com/layer5io/layer5-academy v0.3.0 h1:+Vs51uzlten8CrdthtuEe5gSJdX4kfVkn8n
 github.com/layer5io/layer5-academy v0.3.0/go.mod h1:ndd8KuNwfSNWG/HpjLCqQgTFgSs0BnHkHTghoD82K80=
 github.com/layer5io/layer5-academy v0.3.1 h1:pfSao1WlYWowogdpN0NHLIC4ATt5ULKku9s1bOxTkJ0=
 github.com/layer5io/layer5-academy v0.3.1/go.mod h1:ndd8KuNwfSNWG/HpjLCqQgTFgSs0BnHkHTghoD82K80=
+github.com/layer5io/layer5-academy v0.3.2 h1:bzIV/PbODyZ4vPptkuwPGNVZVSqFw8CJ5X1hen+8Sxk=
+github.com/layer5io/layer5-academy v0.3.2/go.mod h1:ndd8KuNwfSNWG/HpjLCqQgTFgSs0BnHkHTghoD82K80=
 github.com/twbs/bootstrap v5.3.7+incompatible h1:ea1W8TOWZFkqSK2M0McpgzLiUQVru3bz8aHb0j/XtuM=
 github.com/twbs/bootstrap v5.3.7+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
