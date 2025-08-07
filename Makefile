@@ -18,7 +18,7 @@ include .github/build/Makefile-show-help.mk
 #----------------------------------------------------------------------------
 # Academy
 # ---------------------------------------------------------------------------
-.PHONY: setup build stg-build prod-build theme-update sync-with-cloud site
+.PHONY: setup build stg-build prod-build theme-update sync-with-cloud site check-go update-module update-org-to-module-version
 
 ## ------------------------------------------------------------
 ----LOCAL_BUILDS: Show help for available targets
@@ -70,10 +70,22 @@ update-module:
 	echo "Updating Hugo module: $(module) to version $(version)" && \
 	hugo mod get $(module)@$(version)
 
+update-org-to-module-version:
+	@if [ -z "$(orgId)" ] || [ -z "$(version)" ]; then \
+		echo "Usage: make update-org-to-module-mapping orgId=<org-id> version=<version>"; \
+		exit 1; \
+	fi && \
+	jq --arg orgId "$(orgId)" --arg version "$(version)" \
+	'.orgToModuleMapping[$$orgId].version = $$version' \
+	academy_config.json > tmp.json && mv tmp.json academy_config.json
+
+
 ## Publish Academy build to Layer5 Cloud.
 ## Copy built site from public/ to 
 ## ../meshery-cloud/academy directory
 sync-with-cloud:
 	rm -rf ../meshery-cloud/academy
 	mkdir -p ../meshery-cloud/academy
-	rsync -av --delete public/ ../meshery-cloud/academy/
+	rsync -av --delete public/ ../meshery-cloud/academy/ 
+	cp academy_config.json ../meshery-cloud/academy/
+	@echo "Academy site synced with Layer5 Cloud." 
