@@ -41,7 +41,7 @@ jobs:
         run: |
           ORG_ID="${{ github.event.inputs.orgId }}"
           VERSION="${{ github.event.inputs.version || 'latest' }}"
-          MODULE=$(jq -r --arg orgId "$ORG_ID" '.orgToModuleMapping[$orgId]' academy_config.json)
+          MODULE=$(jq -r --arg orgId "$ORG_ID" '.orgToModuleMapping[$orgId].module' academy_config.json)
 
           if [ "$MODULE" = "null" ] || [ -z "$MODULE" ]; then
             echo "❌ Module not found for orgId: $ORG_ID"
@@ -50,6 +50,7 @@ jobs:
 
           echo "✅ Found module for orgId '$ORG_ID': $MODULE"
           make update-module  module="$MODULE" version="$VERSION"
+          make update-org-to-module-version orgId="$ORG_ID" version="$VERSION"
 
       - name: Install dependencies
         run: make setup
@@ -81,6 +82,7 @@ jobs:
           rm -rf meshery-cloud/academy
           mkdir -p meshery-cloud/academy
           rsync -av --delete public/ meshery-cloud/academy/
+          cp  academy_config.json meshery-cloud/academy/
 
       - name: Commit & push academy to meshery-cloud
         uses: stefanzweifel/git-auto-commit-action@v5
