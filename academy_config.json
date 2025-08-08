@@ -10,7 +10,7 @@
     },
     "11111111-1111-1111-1111-111111111111": {
       "module": "github.com/layer5io/layer5-academy",
-      "version": "v2.5"
+      "version": "v0.3.3"
     }
   }
 }
