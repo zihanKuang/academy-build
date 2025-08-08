@@ -69,7 +69,7 @@ outputs:
    section: [HTML, JSON]
    page: [HTML, JSON]
    home: [HTML, JSON]
-  
+
 
 params:
   taxonomy:
@@ -215,20 +215,20 @@ module:
       disable: false
 
       mounts:
-        - source: content/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb
-          target: content/learning-paths/98e16360-a366-4b78-8e0a-031da07fdacb
+        - source: content/learning-paths/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
+          target: content/learning-paths/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
           disableWatch: false
-        - source: content/certifications/98e16360-a366-4b78-8e0a-031da07fdacb
-          target: content/certifications/98e16360-a366-4b78-8e0a-031da07fdacb
+        - source: content/certifications/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
+          target: content/certifications/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
           disableWatch: false
-        - source: content/challenges/98e16360-a366-4b78-8e0a-031da07fdacb
-          target: content/challenges/98e16360-a366-4b78-8e0a-031da07fdacb
+        - source: content/challenges/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
+          target: content/challenges/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
           disableWatch: false
-        - source: layouts/shortcodes/98e16360-a366-4b78-8e0a-031da07fdacb
-          target: layouts/shortcodes/98e16360-a366-4b78-8e0a-031da07fdacb
+        - source: layouts/shortcodes/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
+          target: layouts/shortcodes/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
           disableWatch: false
-        - source: static/98e16360-a366-4b78-8e0a-031da07fdacb
-          target: static/98e16360-a366-4b78-8e0a-031da07fdacb
+        - source: static/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
+          target: static/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
           disableWatch: false
 
 
