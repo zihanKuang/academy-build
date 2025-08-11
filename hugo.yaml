@@ -231,6 +231,26 @@ module:
           target: static/1e2a8e46-937c-47ea-ab43-5716e3bcab2e
           disableWatch: false
 
+    - path: github.com/layer5io/digitalocean-academy
+      disable: false
+
+      mounts:
+        - source: content/learning-paths/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          target: content/learning-paths/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          disableWatch: false
+        - source: content/certifications/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          target: content/certifications/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          disableWatch: false
+        - source: content/challenges/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          target: content/challenges/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          disableWatch: false
+        - source: layouts/shortcodes/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          target: layouts/shortcodes/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          disableWatch: false
+        - source: static/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          target: static/3e2f9c82-1a4c-4781-adf9-99ec22cd994e
+          disableWatch: false
+
 
     - path: github.com/aabidsofi19/aabids-academy
       disable: true
