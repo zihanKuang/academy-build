@@ -2,6 +2,8 @@ github.com/FortAwesome/Font-Awesome v0.0.0-20241216213156-af620534bfc3 h1:/iluJk
 github.com/FortAwesome/Font-Awesome v0.0.0-20241216213156-af620534bfc3/go.mod h1:IUgezN/MFpCDIlFezw3L8j83oeiIuYoj28Miwr/KUYo=
 github.com/layer5io/academy-theme v0.2.8 h1:iJmAQM5jGLbpSyOAgKOpaAX6GE8AuqOz6Jm/jkqQo4g=
 github.com/layer5io/academy-theme v0.2.8/go.mod h1:Dv72UWsREOvX4Zg4mJjrpoyDxdgxxpiDotxqYBXMjXo=
+github.com/layer5io/digitalocean-academy v0.0.0-20250811164829-9c9fe0d0fb30 h1:uOYEZhHFszNjb0ceanoSk118T+6KAFcTopZGYNSVLeQ=
+github.com/layer5io/digitalocean-academy v0.0.0-20250811164829-9c9fe0d0fb30/go.mod h1:HwJAxS+mg1K33NKaDIngdVhya6+GPAraeTyi6g+4268=
 github.com/layer5io/exoscale-academy v0.6.5 h1:ZC36fwf/AwaTLdCLsBcj0rafpDCfhf9UObUid5y7G2I=
 github.com/layer5io/exoscale-academy v0.6.5/go.mod h1:Plyt2oY6ptY2b/m0B3LthZ5yF62lsEz4iXuSiaZy+kE=
 github.com/layer5io/layer5-academy v0.4.1 h1:I7Ggh8DAtR8CmVxRV9CBMB0JrHLaALvjwTYFtPposUI=
